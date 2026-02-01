@@ -43,7 +43,7 @@ Dar de aici și până a avea impresia că a juca în poziția în care a jucat 
 
 De altfel, Dobre n-a avut absolut nicio problemă ca din postura de aripă stânga să marcheze un gol de-a dreptul spectaculos la Galați.
 
-Deci problema majoră nu este că Dobre a jucat în stânga, problema majoră în ceea ce-l privește pe atacantul Rapidului este că acesta se află de ceva vreme într-o pasă mai puțin fericită în ceea ce privește jocul său general. 
+Deci problema majoră nu este că Dobre a jucat în stânga, problema majoră este că acesta se află de ceva vreme într-o pasă mai puțin fericită în ceea ce privește jocul său general. 
 
 Nu e într-o formă deosebită indiferent că joacă în dreapta sau în stânga. 
 
