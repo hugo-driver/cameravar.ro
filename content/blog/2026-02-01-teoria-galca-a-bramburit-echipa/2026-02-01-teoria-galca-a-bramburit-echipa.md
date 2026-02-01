@@ -20,7 +20,7 @@ Dacă prin absurd, Rapid câștiga (să zicem că marca Christensen la acel șut
 
 ## De ce a pierdut de fapt Rapid aseară
 
-Foarte pe scurt, Rapid nu a jucat aseară mai slab decât a făcut-o în unele dintre partidele care le-a terminat învingătoare sau măcar la egalitate de-a lungul acestui sezon.
+Foarte pe scurt, Rapid nu a jucat aseară mai slab decât a făcut-o în unele dintre partidele pe care le-a terminat învingătoare sau măcar la egalitate de-a lungul acestui sezon.
 
 Deci nu a fost ceva cauzat de faptul că Dobre a fost folosit în stânga sau că Petrila n-a fost titular. A fost ceva legat de **limitele echipei în ceea ce privește capacitatea sa de-a ataca pozițional** formații care știu să se apere bine și au la rândul lor suficientă calitate ca să se descurce cu mingea atunci când o câștigă - exact cazul lui U Cluj.
 
