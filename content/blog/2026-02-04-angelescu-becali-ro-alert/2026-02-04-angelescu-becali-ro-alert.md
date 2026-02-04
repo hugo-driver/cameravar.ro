@@ -20,7 +20,7 @@ După părerea mea, elementul central al comunicării de după acest meci, stric
 
 > Mă uit cu invidie la cum sunt tratate rivalele noastre și mă întreb de ce este atât de dificil pentru CCA să asigure condiții normale pentru toți, mai ales că există și sistemul VAR acum”.
 
-## De ce ar trebui Rapid să vorbească de arbitraje chiar și în condițiile unui arbitraj foarte bun al lui Flueran
+## De ce ar trebui ca Rapid să vorbească de arbitraje chiar și în condițiile unui arbitraj foarte bun al lui Flueran
 
 Arbitrajul este tema pe care cei de la Rapid ar trebui să o exploateze pentru că au argumente solide să o facă și pentru că este zona care poate face diferența în ierarhia finală.
 
