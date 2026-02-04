@@ -6,7 +6,7 @@ tags: Rapid
 permalink: "angelescu-becali-ro-alert/index.html"
 cover: "./becali-ro-alert.jpg"
 ---
-![Angelescu ar trebui să învețe de la Gigi Becali cum se tratează arbitrajele](angelescu-becali-ro-alert.jpg)
+![Angelescu ar trebui să învețe de la Gigi Becali cum se tratează arbitrajele](angelescu-becali-ro-alert.jpg) Foto: Fanatik
 
 După victoria de la Sibiu (3-0), Rapid a făcut din nou o eroare majoră legată de tema pe care nu reușește să o impună suficient de solid în spațiul public - faptul că sunt super dezavantajați de arbitraje. 
 
