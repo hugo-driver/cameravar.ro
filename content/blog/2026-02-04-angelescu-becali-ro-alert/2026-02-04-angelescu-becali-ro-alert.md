@@ -48,7 +48,7 @@ Am mai repetat, nici măcar Craiova lui Mititelu, în cei doi ani consecutivi ca
 
 Cei de la Rapid ar trebui să se uite la cum reacționează cei de la FCSB când vine vorba de arbitraje. După cum ți-am mai spus, în mod natural, FCSB este echipa care are parte per total de cele mai favorabile arbitraje din fotbalul nostru.
 
-Dacă nu ai citit deja ce-nseamnă “arbitraje favorabile în mod natural”, [https://iamsport.ro/editorial/de-ce-fcsb-este-o-echipa-ajutata-in-mod-natural-de-arbitri-stefan-beldie-nu-se-fereste-comparatia-cu-rapid-la-lovituri-de-pedeapsa-e-cazul-absolut-extrem-id43836.html](te rog să citești ca să înțelegi).
+Dacă nu ai citit deja ce-nseamnă “arbitraje favorabile în mod natural”, [te rog să citești ca să înțelegi](https://iamsport.ro/editorial/de-ce-fcsb-este-o-echipa-ajutata-in-mod-natural-de-arbitri-stefan-beldie-nu-se-fereste-comparatia-cu-rapid-la-lovituri-de-pedeapsa-e-cazul-absolut-extrem-id43836.html).
 
 În fine, după ce FCSB a avut parte de un arbitraj mai mult decât neprietenos, chiar real dușmănos la meciul cu Miercurea Ciuc - adică decizii care îi țineau pe adversari peste ei mai ales prin acele lovituri libere date aiurea în preajma careului - Becali a vorbit de acte criminale împotriva sa. 
 
