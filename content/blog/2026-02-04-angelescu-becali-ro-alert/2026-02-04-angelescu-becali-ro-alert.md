@@ -10,7 +10,7 @@ cover: "./becali-ro-alert.jpg"
 
 După victoria de la Sibiu (3-0), Rapid a făcut din nou o eroare majoră legată de tema pe care nu reușește să o impună suficient de solid în spațiul public - faptul că sunt super dezavantajați de arbitraje. 
 
-Pentru Victor Angelescu, principalul om de comunicare al Rapidului, orice victorie este un prilej să fie politicos și logic. Adică, admirabil din perspectiva caracterului, total neprofitabil din perspectiva intereselor clubului. 
+Pentru Victor Angelescu, principalul om de comunicare al Rapidului, orice victorie este un prilej să fie politicos și logic. Adică, admirabil din perspectiva caracterului, destul de neprofitabil din perspectiva intereselor imediate ale clubului. 
 
 După părerea mea, elementul central al comunicării de după acest meci, strict în condițiile a ceea ce au trăit ei în acest sezon, ar fi trebuit să fi fost legat de arbitraj:
 
