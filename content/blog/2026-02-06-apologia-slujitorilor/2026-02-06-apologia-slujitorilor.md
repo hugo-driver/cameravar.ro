@@ -47,7 +47,7 @@ Pe de altă parte, cred că pe unii îi deranjează faptul că sintagma "slujito
 
 Chiar nu mă pricep la chestii atât de fine.
 
-Dar am o teorie - cred că marea problemă cu termenul de slujitor este că-i lipsit de ambiguitate, spune exact cum stau lucrurile.
+Dar am o teorie - cred că marea problemă cu termenul "slujitor" este că-i lipsit de ambiguitate, spune exact cum stau lucrurile.
 
 Spune adevărul complet.
 
