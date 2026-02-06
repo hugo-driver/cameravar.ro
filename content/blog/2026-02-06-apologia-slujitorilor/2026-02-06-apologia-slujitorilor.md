@@ -41,9 +41,9 @@ Pe când angajatul onorabil al unei corporații se știe că termină programul 
 
 Doarme acasă în patul său și dacă prin absurd se trezește noaptea, merge la frigider fără să calce tiptil, știind exact ce va găsi pe rafturi. Are parte de predictibilitate în viața sa, cum ar spune Andrei Nicolescu într-un moment de reverie. 
 
-Din, nou metaforic vorbind.
+Din nou metaforic vorbind.
 
-Pe de altă parte, cred că pe unii îi deranjează faptul că sintagma "slujitor" implică un soi de umilință a celui care slujește.
+Pe de altă parte, probabil că pe unii îi deranjează faptul că sintagma "slujitor" implică un soi de umilință a celui care slujește.
 
 Chiar nu mă pricep la chestii atât de fine.
 
