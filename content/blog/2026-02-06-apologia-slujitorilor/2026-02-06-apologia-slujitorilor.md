@@ -57,12 +57,12 @@ Ca angajat sau coleg, ai un statut mult mai luminos social, dar e un statut baza
 
 Eu întreb pentru că nu mă pricep, nu pentru că aș vrea să-i fac pe oameni să-și analizeze propria situație și să ajungă la concluzii exagerat-dramatice din categoria “Frate, sub toate straturile de sintagme onorabile pe care le aud din gurile corporației, de fapt eu sunt un sclav?!”. 
 
-PS: unii vor crede că am scris acest text pentru că sunt un slujitor din presă al lui Becali. 
+**PS**: unii vor crede că am scris acest text pentru că sunt un slujitor din presă al lui Becali. 
 
 Fals.
 
-Sunt un mic negustor care vinde o marfă rară pe o piață dominată altfel de monștri ai comerțului precum Horia Ivanovici. 
+Sunt un mic negustor care vinde o marfă rară în împachetarea mea, dar pe o piață dominată de monștri ai comerțului precum Horia Ivanovici. 
 
-Marele meu atu este că nu fac înțelegeri anticoncurențiale cu nimeni și îmi slujesc cu dedicare doar propriile interese și plăceri. 
+Marele meu atu este că nu fac înțelegeri anticoncurențiale și îmi slujesc cu dedicare doar propriile interese și plăceri. 
 
 Asta deși frumos este să spui că-ți slujești publicul, nu?
