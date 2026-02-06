@@ -9,7 +9,9 @@ cover: "./apologia-arhaismului-becalian.jpg"
 
 ![Gigi Becali vorbind de la Palat despre slujire și slujitori ./apologia-arhaismului-becalian.jpg](./apologia-arhaismului-becalian.jpg)
 
-Am observat un soi de dezgust neobișnuit legat de faptul că Becali își numește angajații slujitori. Și că lansează butade din acestea arhaice : “Să facă slujire dacă primește salariu...”.
+Am observat un soi de dezgust neobișnuit legat de faptul că Becali își numește angajații slujitori. Și că lansează butade din acestea arhaice : 
+
+> “Să facă slujire dacă primește salariu...”.
 
 Nu știu de ce-i irită pe unii astfel de exprimări.
 
