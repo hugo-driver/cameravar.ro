@@ -38,7 +38,7 @@ Dacă ții cu Dinamo și vrei să treci la nivelul următor, du-te pe stadion la
 
 Exact!
 
-Fii martorul serios al disoluției rivalei în compania unui adversar din partea căruia nu se aștepta la nimic periculos.
+Fii martorul serios al disoluției rivalei în compania unui adversar din partea căruia nu se așteptă la nimic periculos.
 
 De asta eu merg pe stadion aproape la toate meciurile jucate acasă  de echipele bucureștene. 
 
@@ -48,7 +48,7 @@ Cu exceptia cazărilor... deci prețul camerelor de hotel în Craiova a luat-o r
 
 Acum niște ani, te duceai acolo și aveai impresia că-s bucuroși că le treci pragul. Desigur, în stilul lor oltenesc, tot te simțeai cumva tolerat spre bine venit:
 
-“De unde sunteți? Din Rm. Sărat? Unde vine asta? În Buzău?! Oho, moldovean...”
+> **“De unde sunteți? Din Rm. Sărat? Unde vine asta? În Buzău?! Oho, moldovean...”**
 
 Acum, nu te mai întreabă nimeni nimic.
 
