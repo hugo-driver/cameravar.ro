@@ -7,7 +7,7 @@ tags: Presa sportivă
 permalink: "upadate-dictionar-meciuri-dubioase/index.html"
 cover: "./upadate-dictionar-meciuri-dubioase.jpg"
 ---
-![Oricine poate fi ultras, dar prea puțini pot face ceea ce face Ștefan Beldie când vine vorba de a susține o echipă](upadate-dictionar-meciuri-dubioase.jpg)
+![Tactica Becali - Nimic nu face un meci mai interesant decât o ofertă de ultim moment pentru un jucător de la adversar](upadate-dictionar-meciuri-dubioase.jpg)
 
 
 În ultimii ani, am constatat suporterii sau colegii mei de breaslă folosesc un pic haotic sintagamele care descriu meciurile dubioase din Liga 1. 
