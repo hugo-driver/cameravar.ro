@@ -10,9 +10,9 @@ cover: "./upadate-dictionar-meciuri-dubioase.jpg"
 ![Tactica Becali - Nimic nu face un meci mai interesant decât o ofertă de ultim moment pentru un jucător de la adversar](upadate-dictionar-meciuri-dubioase.jpg)
 
 
-În ultimii ani, am constatat suporterii sau colegii mei de breaslă folosesc un pic haotic sintagamele care descriu meciurile dubioase din Liga 1. 
+În ultimii ani, am constatat că suporterii sau colegii mei de breaslă folosesc un pic haotic sintagamele care descriu meciurile dubioase din Liga 1. 
 
-Prin urmare, pentru ca lucrurile să fie prezentate cu maximă acuratețe, vreau să ofer reperele corecte în ceea ce privește acești termeni și să introduc unele noi  în Dicționarul Explicativ al Meciurilor Dubioase (DEMD) 
+Prin urmare, pentru ca lucrurile să fie prezentate cu maximă acuratețe, vreau să ofer reperele corecte în ceea ce privește acești termeni, dar și să introduc unele noi în Dicționarul Explicativ al Meciurilor Dubioase (DEMD) 
 
 Prin urmare, lucrurile stau așa:
 
