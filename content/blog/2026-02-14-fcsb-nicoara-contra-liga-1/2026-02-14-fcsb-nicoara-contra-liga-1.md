@@ -11,7 +11,7 @@ cover: "./radu-petrescu-control-becali-nicoara.jpg"
 
 După ce Radu Petrescu a comis-o aseară spectaculos-penibil la meciul Petrolul - FC Argeș, o grămadă de voci s-au îngrămădit firesc să acuze o nouă conspirație menită să aducă pe FCSB în play off.
 
-Suporterii rivalelor FCSB insistă mai ales asupra faptului că FCSB s-ar asigura că lucrurile se petrec în favoarea sa inclusiv cu prețul unor grozăvii în ceea ce privește arbitrajul.
+Suporterii rivalelor insistă asupra faptului că FCSB s-ar asigura că lucrurile se petrec în favoarea sa inclusiv cu prețul unor grozăvii în ceea ce privește arbitrajul.
 
 Cei mai sofisticați în ceea ce privește urmărirea informațiilor legate de Liga 1 merg cu acuzele spre Orlando Nicoară, șeful companiei care deține drepturile TV ale campionatului nostru și le vinde televiziunilor.
 
