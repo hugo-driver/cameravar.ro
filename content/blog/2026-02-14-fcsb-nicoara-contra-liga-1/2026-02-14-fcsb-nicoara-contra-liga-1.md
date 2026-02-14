@@ -7,7 +7,7 @@ tags: ["FCSB", "Arbitraje"]
 permalink: "radu-petrescu-control-becali-nicoara/index.html"
 cover: "./radu-petrescu-control-becali-nicoara.jpg"
 ---
-![Tactica Becali - Nimic nu face un meci mai interesant decât o ofertă de ultim moment pentru un jucător de la adversar](upadate-dictionar-meciuri-dubioase.jpg)
+![Simplu fapt că lucrurile se aranjează așa cum și le dorește Becali nu înseamnă că sunt aranjate de Becali](radu-petrescu-control-becali-nicoara.jpg)
 
 După ce Radu Petrescu a comis-o aseară spectaculos-penibil la meciul Petrolul - FC Argeș, o grămadă de voci s-au îngrămădit firesc să acuze o nouă conspirație menită să aducă pe FCSB în play off.
 
