@@ -58,9 +58,9 @@ Cu care am o relație apropiată, în sensul că nu trec mai mult de 15 ani înt
 
 > **Din contră, la un moment dat am avut o dispută juridică, l-am și dat judecată”.**
 
-Notă: pentru că n-am posibilitatea de-a-i oferi dreptul la replică lui Mihai Stoica, aș vrea să fac un comentariu legat de sintagma "paharnic" - în principiu, nu văd absolut nimic rău în a te comporta ca o gazdă la un protocol. 
+**Notă**: pentru că n-am posibilitatea de-a-i oferi dreptul la replică lui Mihai Stoica, aș vrea să fac un comentariu legat de sintagma "paharnic" - în principiu, nu văd absolut nimic rău în a te comporta ca o gazdă la un protocol. 
 
-Din contră, cred că dacă cineva te vizitează și ai ocazia să-i torni un pahar de vin, cred că-l onorezi și te onorezi ca gazdă, nu te umilești. 
+Din contră, cred că dacă cineva te vizitează și ai ocazia să-i torni un pahar de vin, cred că-l onorezi și te onorezi ca gazdă, nu te umilești.
 
 
 ## Chiar reușesc Becali și Mihai Stoica să-i timoreze pe cei care-și dau cu părerea în emisiuni despre arbitraje? 
