@@ -20,7 +20,7 @@ Discursul său a fost ca întotdeauna unul deștept - nu poate cineva să-i repr
 
 Mai mult, Stoica a făcut apel la un argument pe care nimeni nu-l poate contesta - orice om sănătos psihic are un anume grad de subiectivitate în relație cu absolut orice.
 
-## Abilitatea lui Stoica de-a spune adevăruri absurde
+## Abilitatea lui Stoica de-a spune și adevăruri absurde
 
 Desigur, simplu fapt că ceva e adevărat nu înseamnă automat că nu poate fi absurd în context - de exemplu, dacă spui că vinzi băutură îndulcită cu miere de albine și la analiză se constată că băutura respectivă conține miere de albine, ai spus un adevăr.
 
