@@ -50,7 +50,7 @@ Cu care am o relație apropiată, în sensul că nu trec mai mult de 15 ani înt
 
 > **Ce m-a deranjat și mereu mă va deranja este că eu am fost un arbitru de înalt nivel în niște vremuri în care statul și ministerele de forță nenoroceau vieți, iar eu am trecut prin asta demn, fără ca cineva să poată spune vreodată că am fost altfel decât corect. Nu accept ca cineva flexibil precum un vârf de undiță să-ncerce să pună la îndoială corectitudinea mea când vine vorba de arbitraj.**
 
-> **De asemenea, simplu fapt că domnul Becali a primit 100 milioane Euro pe filiera ANRP sau că a luat Steaua cum a luat-o nu mă face să fiu invidios pe dânsul. E treaba dânsului, eu am treburile mele. Amândoi suntem la vârsta la care știm că importante în viață sunt familia, copiii, nepoții. Mă așteptam însă ca măcar el să nu lase angajații să vorbească de o asemenea manieră despre mine.**
+> **De asemenea, simplu fapt că domnul Becali a primit 100 milioane Euro pe filiera ANRP sau că a luat Steaua cum a luat-o nu mă face să fiu invidios pe dânsul. E treaba dânsului, eu am treburile mele. Amândoi suntem la vârsta la care știm că importante în viață sunt familia, copiii, nepoții. Mă așteptam însă ca măcar el să nu-și lase angajații să vorbească de o asemenea manieră despre mine.**
 
 > **Am observat chiar un soi de teamă în societatea asta fotbalistică și numai legată de Mihai Stoica și de Gigi Becali. Multora le este frică spună ceva ca nu cumva să-i supere și să ajungă în gura lor. Că-s răi de gură... Păi, eu am fost arbitru cu A mare și mi-am câștigat dreptul prin onestitatea mea profesională nu doar să comenteze situații de arbitraj, dar să am și curajul firesc de-a vorbi despre orice doresc.**
 
