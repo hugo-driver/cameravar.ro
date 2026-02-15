@@ -72,9 +72,11 @@ Nu le place.
 
 Nu se simt confortabil să intre în astfel de discuții cu oameni care ori au un talent real de-a purta astfel de dispute (Mihai Stoica), ori au o încredere nebună că dreptatea e de partea lor orice s-ar întâmpla (Gigi Becali).
 
-Desigur, există și invitați care nu spun nimic sau o dau la pace pentru că preferă să-și slujească preferințele / simpatiile, nu contractul / meseria. Acest tip de invitat nu există doar pro FCSB, cam toate echipele mari beneficiază și de astfel de ajutoare penibile.
+Desigur, există și invitați care nu spun nimic sau o dau la pace pentru că preferă să-și slujească preferințele / simpatiile, nu contractul / meseria. Acest tip de invitat nu există doar pro FCSB, cam toate echipele mari beneficiază și de astfel de ajutoare.
 
-În fine, cred însă că majoritatea invitaților au o capacitate decentă de-a nu înghiți aberații și de-a-și exprima părerile pe baza a ceea ce percep și atât.  
+Cel mai important însă, cred că majoritatea invitaților au o capacitate decentă de-a nu înghiți aberații și de-a-și exprima părerile pe baza a ceea ce percep și atât. 
+
+Repet, majoritatea.
 
 ## Cine câștigă disputele legate de arbitraje are șanse să câștige arbitraje favorabile în meciuri
 
