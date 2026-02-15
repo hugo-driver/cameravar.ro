@@ -44,7 +44,7 @@ Cu care am o relație apropiată, în sensul că nu trec mai mult de 15 ani înt
 
 Și Adrian Porumboiu a zis în stilul său următoarele:
  
-> “Mihai Stoica m-a cunoscut pe mine când eu eram arbitru și eu l-am cunoscut pe el când dânsul era paharnic la protocoalele de dinaintea meciurilor de la Galați. 
+**> “Mihai Stoica m-a cunoscut pe mine când eu eram arbitru și eu l-am cunoscut pe el când dânsul era paharnic la protocoalele de dinaintea meciurilor de la Galați. 
 
 > Deci el știe care a fost nivelul meu profesional, cum am fost eu ca arbitru, care a fost nivelul meu de moralitate. La fel, și eu pot să confirm că profesional Mihai Stoica era un paharnic bun, chiar nu-i pot reproșa ceva.
 
@@ -54,9 +54,9 @@ Cu care am o relație apropiată, în sensul că nu trec mai mult de 15 ani înt
 
 > Am observat chiar un soi de teamă în societatea asta fotbalistică și numai legată de Mihai Stoica și de Gigi Becali. Multora le este frică spună ceva ca nu cumva să-i supere și să ajungă în gura lor. Că-s răi de gură... Păi, eu am fost arbitru cu A mare și mi-am câștigat dreptul prin onestitatea mea profesională nu doar să comenteze situații de arbitraj, dar să am și curajul firesc de-a vorbi despre orice doresc.
 
-Nu am interese legate de fotbal, nu am nicio relație cu adversarele FCSB. Ce treabă să am eu, de exemplu, cu Mihai Rotaru de la Craiova? 
+> Nu am interese legate de fotbal, nu am nicio relație cu adversarele FCSB. Ce treabă să am eu, de exemplu, cu Mihai Rotaru de la Craiova? 
 
-Din contră, la un moment dat am avut o dispută juridică, l-am și dat judecată”.
+> Din contră, la un moment dat am avut o dispută juridică, l-am și dat judecată”.**
 
 ## Chiar reușesc Becali și Mihai Stoica să-i timoreze pe cei care-și dau cu părerea în emisiuni despre arbitraje? 
 
