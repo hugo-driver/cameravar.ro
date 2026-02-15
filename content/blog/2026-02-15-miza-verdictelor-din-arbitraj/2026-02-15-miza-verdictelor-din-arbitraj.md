@@ -7,10 +7,10 @@ tags: ["FCSB", "Arbitraje"]
 permalink: "campionatul-joaca-emisiuni-analiza-arbitraje/index.html"
 cover: "./campionatul-joaca-emisiuni-analiza-arbitraje.jpg"
 ---
-![Simplu fapt că lucrurile se aranjează așa cum și le dorește Becali nu înseamnă că sunt aranjate de Becali](campionatul-joaca-emisiuni-analiza-arbitraje.jpg)
+![Adrian Porumboiu, unul dintre cei în care Mihai Stoica nu are încredere când vine vorba de analiza arbitrajelor](campionatul-joaca-emisiuni-analiza-arbitraje.jpg)
 
 
-Am scris zilele trecute despre mișcarea strategică a lui Mihai Stoica prin care a încercat încă o dată să îngusteze “sursa de adevăr” când vine vorba de FCSB.
+Am scris zilele trecute despre [mișcarea strategică a lui Mihai Stoica](https://www.facebook.com/stefan.beldie/posts/pfbid02qVz9fu5ihmEXHJpkP68zh7eT8FXHRkbuvdR9VYi684Mry69PtB7NSqyNm42iXduJl) prin care a încercat încă o dată să îngusteze “sursa de adevăr” când vine vorba de FCSB.
 
 În emisiunea de la Prima Sport, Stoica a insistat că nu are încredere în nimeni când vine vorba analizarea arbitrajelor și că experții în arbitraj sau cei care comentează prin emisiuni fazele nu sunt obiectivi pentru că ori au simpatii care-i fac să antipatizeze FCSB, ori vor să lovească în FCSB pentru că-l invidiază pe Becali. 
 
