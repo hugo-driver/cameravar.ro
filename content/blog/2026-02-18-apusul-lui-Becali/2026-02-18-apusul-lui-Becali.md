@@ -7,9 +7,7 @@ tags: ["FCSB", "Gigi Becali"]
 permalink: "cel-mai-mare-pericol-fcsb/index.html"
 cover: "./cel-mai-mare-pericol-fcsb.jpg"
 ---
-![Becali a ajuns în punctul în care simplitatea sa țărănească în afaceri s-ar putea să nu mai fie suficientă pentru a menține FCSB în vârful fotblului românesc](andrei-nicolescu-gigi-ecali.webp)
-
-# Cel mai mare pericol pentru FCSB
+![Becali a ajuns în punctul în care simplitatea sa țărănească în afaceri s-ar putea să nu mai fie suficientă pentru a menține FCSB în vârful fotblului românesc](andrei-nicolescu-gigi-becali.jpg)
 
 Teoria mea legată de succesul lui Becali în fotbal este destul de simplă - a riscat major doar când a preluat Steaua, iar apoi a aplicat destul de constant niște principii de prudență financiară țărănească. 
 
