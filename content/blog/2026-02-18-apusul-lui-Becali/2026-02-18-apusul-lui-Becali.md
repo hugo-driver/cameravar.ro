@@ -107,10 +107,10 @@ Subiectul mi se pare important pentru că Becali a avut o mare calitate în aces
 
 O parte dintre rivalii săi par să fie mult mai atenți când vine vorba de-a se feri de erorile făcute de “strămoșii” lor falimentari.
 
-Astfel, Becali a ajuns în era în care dacă nu permite măcar mici schimbări de abordare comercială, dacă nu face în așa fel încât clubul pe care-l deține să fie exploatat mai aproape de potențialul său, dacă nu lasă echipa să-și îmbuntățească imaginea dicolo de el, va pierde.
+Astfel, Becali a ajuns în era în care dacă nu permite măcar mici schimbări de abordare comercială, dacă nu face în așa fel încât clubul pe care-l deține să fie exploatat mai aproape de potențialul său, dacă nu lasă echipa să-și îmbuntățească imaginea dincolo de el, va pierde.
 
 Adică, e probabil ca rivalii cu apucături pe alocuri comic-corporatiste să construiască niște cluburi mai mari, mai puternice, mai atractive decât al său.
 
-Și asta nu într-un viitor îndepărtat, eventual când el nu va mai fi, ci destul de rapid,.
+Și asta nu într-un viitor îndepărtat, eventual când el nu va mai fi, ci destul de rapid.
 
 Chiar în timpul domniei sale. 
