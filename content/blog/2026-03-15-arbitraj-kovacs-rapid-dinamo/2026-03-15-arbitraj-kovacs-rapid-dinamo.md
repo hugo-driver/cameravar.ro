@@ -3,9 +3,9 @@ title: Șocant pentru Dinamo - Kovacs și Popa (VAR) dăduseră impresia până 
 description: Toate deciziile arbitrilor de până la golul lui Petrila au fost în favoarea lui Dinamo. Inclusiv când nu era cazul
 slug: arbitraj-kovacs-rapid-dinamo
 date: 2026-02-14
-tags: [“Dinamo”, "Arbitraje"]
+tags: ["Dinamo", "Arbitraje"]
 permalink: "arbitraj-kovacs-rapid-dinamo/index.html"
-cover: “./arbitraj-kovacs-rapid-dinamo.jpg"
+cover: "./arbitraj-kovacs-rapid-dinamo.jpg"
 ---
 ![Dinamoviștii cred că Istvan Kovacs a avut nevoie de 67 de minute ca să-i fure... ](arbitraj-kovacs-rapid-dinamo.jpg)
 ---
