@@ -1,5 +1,5 @@
 ---
-title: Șocant pentru Dinamo: Kovacs și Popa (VAR) dăduseră impresia până în minutul 67 că de fapt îi “fură” pe Rapid 
+title: Șocant pentru Dinamo - Kovacs și Popa (VAR) dăduseră impresia până în minutul 67 că de fapt îi “fură” pe Rapid 
 description: Toate deciziile arbitrilor de până la golul lui Petrila au fost în favoarea lui Dinamo. Inclusiv când nu era cazul
 slug: arbitraj-kovacs-rapid-dinamo
 date: 2026-03-15
