@@ -23,7 +23,7 @@ Pe scurt, toate deciziile pe care arbitrii le-au luat până la golul lui Petril
 
 Niște arbitri care aveau ceva cu Dinamo foloseau aceste ocazii ca să rezolve partida, nu așteptau până la faza duelului Borza - Musi, când evident că s-au făcut de râs nesancționând faultul clar al rapidistului înainte de golul lui Petrila (min. 67)
 
-Aici ai un video în care discut despre povestea arbitrajului de aseară, dar și despre motivele pentru care reacția celor de la Rapid a fost pe alocuri comic-penibilă:
+[Aici ai un video](https://youtu.be/l-D5b8OQnR4) în care discut despre arbitrajul lui Istvan Kovacs și Cătălin Popa (VAR) de aseară, dar și despre motivele pentru care reacția celor de la Rapid a fost pe alocuri comic-penibilă:
 
-https://youtu.be/l-D5b8OQnR4
+
 
