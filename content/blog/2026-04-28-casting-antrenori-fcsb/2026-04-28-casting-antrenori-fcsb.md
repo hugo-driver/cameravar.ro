@@ -5,7 +5,7 @@ slug: antrenor-cu-intarziere-fcsb
 date: 2026-04-28
 tags: ["FCSB", "Gigi Becali"]
 permalink: "antrenor-cu-intarziere-fcsb/index.html"
-cover: "./antrenor-cu-intarziere-fcsb.p”ng
+cover: "./antrenor-cu-intarziere-fcsb.png
 ---
 ![Becali are dificultăți în ceea ce privește casting-ul de antrenori](antrenor-cu-intarziere-fcsb.png)
 
