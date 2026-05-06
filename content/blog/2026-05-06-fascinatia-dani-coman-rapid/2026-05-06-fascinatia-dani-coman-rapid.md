@@ -3,10 +3,11 @@ title: De unde a apărut fascinația pentru Dani Coman la Rapid
 description: Dincolo de argumente obiective, o parte dintre fanii Rapidului tânjesc după un tătuc care să le scoată fițele din cap fotbaliștilor
 slug: fascinatia-dani-coman-rapid
 date: 2026-05-06
-tags: ["Rapid"]
-permalink: “fascinatia-dani-coman-rapid/index.html"
-cover: "./fascinatia-dani-coman-rapid.png"
+tags:  ["Rapid"]
+permalink: "fascinatia-dani-coman-rapid/index.html"
+cover: "./dani-coman-vs-jucatori-rapid.jpg"
 ---
+
 ![Dani Coman pare favoritul multor fani ai Rapidului](dani-coman-vs-jucatori-rapid.jpg)
 
 [Aici ai varianta video a ideilor din acest text.](https://youtu.be/Wtjr4NVmOlI)
