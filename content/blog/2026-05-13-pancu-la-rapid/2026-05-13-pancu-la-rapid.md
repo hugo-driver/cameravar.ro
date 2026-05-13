@@ -1,6 +1,6 @@
 ---
 title: Chiar este Pancu cea mai bună soluție pentru Rapid?
-description: După parcursul de la CFR Cluj, Pancu pare perfect pentru Rapid. Eu am însă altă părere - Pancu e o variantă bună, dar nu cea mai bună
+description: "După parcursul de la CFR Cluj, Pancu pare perfect pentru Rapid. Eu am însă altă părere - Pancu e o variantă bună, dar nu cea mai bună"
 slug: pancu-la-rapid
 date: 2026-05-13
 tags:  ["Rapid"]
