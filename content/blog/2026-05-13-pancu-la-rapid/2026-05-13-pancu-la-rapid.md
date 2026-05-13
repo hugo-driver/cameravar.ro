@@ -10,7 +10,7 @@ cover: "./pancu-la-rapid.png"
 
 ![Dacă vine la Rapid, Pancu va fi o nucă grea pentru jucători](pancu-la-rapid.png)
 
-[Aici ai varianta video a unora dintre ideile din acest text.](https://www.youtube.com/watch?v=OO7VpO3M-qg)
+[Aici ai varianta video a unora dintre ideile acestui text.](https://www.youtube.com/watch?v=OO7VpO3M-qg)
 
 
 Acum mai bine de 5 ani, am făcut un video în care spuneam că ideea celor de la Rapid de-a încerca promovarea în Liga 1 cu ajutorul lui Pancu a fost o eroare.
