@@ -1,7 +1,6 @@
 ---
 title: Câteva concluzii după închiderea ediției tipărite a Gazetei Sporturilor
 description: De la 1 noiembrie, ziarul nu va mai fi trimis în tipografie și va fi urcat online sub forma deja consumată de o bună parte a publicului Gazetei Sporturilor
-slug: concluzii-inchidere-gazeta-sporturilor
 date_published: 2023-11-06T09:53:49.000Z
 date_updated: 2024-06-30T10:56:30.000Z
 tags: ["Presa sportivă", "Suporteri"]

@@ -1,7 +1,6 @@
 ---
 title: De ce Adrian Mutu ar fi cel mai problematic selecționer pentru interesele FCSB
 description: Din lista celor vehiculați ca posibili viitori antrenori ai naționalei, Becali ar avea probleme mari cu o singură variantă - Adrian Mutu
-slug: adrian-mutu-problema-becali
 date_published: 2024-07-04T10:01:54.000Z
 date_updated: 2024-07-04T10:01:54.000Z
 tags: ["Gigi Becali", "FCSB", "FRF", "Antrenori"]

@@ -1,6 +1,5 @@
 ---
 title: Cum mi se par analiștii din noul val - cazurile Marius Baciu și Raul Rusescu
-slug: noul-val-de-analisti-baciu-rusescu
 date_published: 2025-08-26T11:15:59.000Z
 date_updated: 2025-08-26T11:21:32.000Z
 tags: Presa sportivă

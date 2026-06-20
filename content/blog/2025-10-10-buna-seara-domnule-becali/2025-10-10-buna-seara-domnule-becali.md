@@ -1,7 +1,6 @@
 ---
 title: Bună seara, domnule Becali...
 description: Mulți sunt supărați că presa de sport îl supra expune pe Gigi Becali. Ar trebui să se bucure pentru că acesta e un semn de sănătate jurnalistică
-slug: buna-seara-domnule-becali
 date: 2025-10-10
 tags: Presa sportivă
 permalink: "buna-seara-domnule-becali/index.html"

@@ -1,7 +1,6 @@
 ---
 title: Ce merit nu i se recunoaște lui Iorgulescu
 description: "Actualul președinte al LPF a revoluționat antrenoratul în România prin aducerea de tehnicieni italieni în Liga 1"
-slug: meritul-lui-iorgulescu
 date_published: 2022-05-23T21:24:00.000Z
 date_updated: 2024-06-30T16:04:46.000Z
 tags: ["Antrenori", "LPF"]

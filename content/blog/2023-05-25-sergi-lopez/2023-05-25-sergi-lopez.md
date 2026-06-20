@@ -1,7 +1,6 @@
 ---
 title: Sergi Lopez - ghid de înțelegere a personajului
 description: Un fan al Stelei este cel mai important influencer neafiliat clubului printre suporterii echipei patronate de Gigi Becali
-slug: sergi-lopez
 date_published: 2023-05-25T16:44:42.000Z
 date_updated: 2024-06-30T11:40:14.000Z
 tags: ["Suporteri", "FCSB", "Presa sportivă"]

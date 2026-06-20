@@ -1,7 +1,6 @@
 ---
 title: Fenomenul Iulian Miu
 description: Nu am văzut vreodată un analist al vreunei emisiuni dedicate Ligii 1 mai contestat public decât Iulian Miu.
-slug: iulian-miu-contestare
 date_published: 2024-04-19T08:07:17.000Z
 date_updated: 2024-06-30T10:49:52.000Z
 tags: ["Presa sportivă", "Suporteri", "FCSB", "CSA Steaua"]

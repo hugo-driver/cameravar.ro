@@ -1,7 +1,6 @@
 ---
 title: Top 5 cei mai contestați fotbaliști buni ai Rapidului
 description: Acești fotbaliști sunt super contestați de mulți suporteri, dar după părerea mea, respectivii greșesc. Aproape fiecare dintre acești jucători are potențial să fie om de bază la Rapid
-slug: top-5-fotbalisti-contestati-rapid
 date_published: 2024-07-21T16:40:11.000Z
 date_updated: 2024-07-21T16:51:11.000Z
 tags: Rapid

@@ -1,6 +1,5 @@
 ---
 title: Cum să-ți dai seama dacă un comentator iubește altă echipă decât cea pe care o susții tu
-slug: cum-afli-cu-cine-tin-comentatorii
 date_published: 2025-01-07T14:09:54.000Z
 date_updated: 2025-01-07T14:33:37.000Z
 tags: Presa sportivă

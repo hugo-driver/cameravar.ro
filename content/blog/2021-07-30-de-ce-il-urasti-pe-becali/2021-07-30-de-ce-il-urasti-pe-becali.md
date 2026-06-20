@@ -1,7 +1,6 @@
 ---
 title: Becali - ghid de înțelegere a personajului
 description: "Află motivele reale și neplăcute pentru care patronul FCSB ți se pare un personaj enervant sau respingător."
-slug: de-ce-il-urasti-pe-becali
 date_published: 2021-07-30T20:40:00.000Z
 date_updated: 2024-06-30T16:10:31.000Z
 tags: ["Gigi Becali", "FCSB"]

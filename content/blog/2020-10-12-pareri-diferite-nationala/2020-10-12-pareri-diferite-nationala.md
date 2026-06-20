@@ -1,7 +1,6 @@
 ---
 title: De ce naționala este comentată atât de diferit
 description: "Dacă batem, suntem buni, patrioți, șmecheri. Dacă pierdem, jucătorii sunt proști, leneși, lipsiți de atitudine."
-slug: pareri-diferite-nationala
 date_published: 2020-10-12T20:07:00.000Z
 date_updated: 2023-12-27T04:58:22.000Z
 tags: ["Echipa națională", "Presa sportivă"]

@@ -1,7 +1,6 @@
 ---
 title: Șucu e pe punctul să descopere ceva interesant legat de fotbalul românesc... Sau nu.
 description: Patronul Rapidului a crezut că dacă fotbalul e populat cu oameni ne pregătiți, automt va obține rapid succesul pe care și-l dorește.
-slug: sucu-fotbal
 date_published: 2023-12-20T08:11:46.000Z
 date_updated: 2024-06-30T10:46:00.000Z
 tags: ["Dan Șucu", "Rapid"]

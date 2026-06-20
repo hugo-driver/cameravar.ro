@@ -1,7 +1,6 @@
 ---
 title: Dan Filoti - ghid de înțelegere a personajului
 description: Tot ceea ce merită să știi despre Dan Filoti, plus ceva în plus din perspective la care nu te-ai gândit.
-slug: dan-filoti
 date_published: 2024-01-06T13:19:18.000Z
 date_updated: 2024-06-29T16:31:13.000Z
 tags: Presa sportivă

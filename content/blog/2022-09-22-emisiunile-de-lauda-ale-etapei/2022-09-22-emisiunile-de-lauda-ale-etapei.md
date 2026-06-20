@@ -1,7 +1,6 @@
 ---
 title: Vor apărea emisiunile de laudă ale etapei?
 description: "Noul contract pentru vânzarea drepturilor TV ale Ligii 1 ar putea să includă prevederi neobișnuite pentru meseria de ziarist."
-slug: emisiunile-de-lauda-ale-etapei
 date_published: 2022-09-22T14:28:15.000Z
 date_updated: 2024-06-30T12:08:03.000Z
 tags: ["Presa sportivă", "LPF"]

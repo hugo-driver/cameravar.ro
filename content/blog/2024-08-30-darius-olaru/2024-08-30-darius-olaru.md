@@ -1,6 +1,5 @@
 ---
 title: E timpul ca Olaru să plece în Vest, iar eu să nu mai am dubii legate de el (Video)
-slug: darius-olaru
 date_published: 2024-08-30T12:43:20.000Z
 date_updated: 2024-08-30T12:43:20.000Z
 tags: FCSB

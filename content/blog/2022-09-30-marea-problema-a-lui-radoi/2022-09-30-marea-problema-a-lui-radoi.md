@@ -1,7 +1,6 @@
 ---
 title: Marea problemă a lui Rădoi
 description: "Cel mai greu lucru pentru olteni este să-și evalueze obiectiv lotul de jucători. Sunt sau nu sunt fotbaliști care să câștige titlul?"
-slug: marea-problema-a-lui-radoi
 date_published: 2022-09-30T20:35:07.000Z
 date_updated: 2024-06-30T12:04:44.000Z
 tags: ["CS U Craiova", "Antrenori"]

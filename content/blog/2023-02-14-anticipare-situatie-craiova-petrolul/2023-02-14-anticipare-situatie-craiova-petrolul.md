@@ -1,7 +1,6 @@
 ---
 title: Cum am anticipat ce se-ntâmplă la Craiova și am greșit în privința Petrolului
 description: Cred că cei de la CSU Craiova și Petrolul mă citesc cu mare atenție. Însă doar oltenii mă ascultă, cei de la Petrolul se încăpățânează să mă sfideze
-slug: anticipare-situatie-craiova-petrolul
 date_published: 2023-02-14T08:36:19.000Z
 date_updated: 2024-06-30T11:51:44.000Z
 tags: ["CS U Craiova", "Petrolul"]

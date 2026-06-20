@@ -1,7 +1,6 @@
 ---
 title: Despre aparentul favor pe care-l fac televiziunile cluburilor din Liga 1
 description: "Relațiile dintre noi și televiziuni și dintre televiziuni și cluburi de fotbal sunt pur comerciale. Nimeni nu iubește pe nimeni, toată lumea vrea un profit."
-slug: favorul-televiziunilor-drepturi-tv-liga1
 date_published: 2016-08-25T05:41:00.000Z
 date_updated: 2024-06-30T16:35:47.000Z
 tags: ["Presa sportivă", "Suporteri"]

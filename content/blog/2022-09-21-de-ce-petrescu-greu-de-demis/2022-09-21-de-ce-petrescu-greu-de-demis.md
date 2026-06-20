@@ -1,7 +1,6 @@
 ---
 title: De ce e Petrescu greu de demis
 description: "Poate că acea clauză de 400.000 Euro a fost decisivă, dar există și alte rațiuni importante pentru care demiterea lui Petrescu e foarte riscantă."
-slug: de-ce-petrescu-greu-de-demis
 date_published: 2022-09-21T11:52:54.000Z
 date_updated: 2024-06-30T12:08:52.000Z
 tags: ["CFR Cluj", "Antrenori"]

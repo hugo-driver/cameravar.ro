@@ -1,7 +1,6 @@
 ---
 title: Topul celor mai ușor de ofensat fani din Liga 1
 description: Acești fani nu sunt interesați de realitate, ci doar să aibă dreptate spre gloria reală sau imaginară a echipei pe care o susțin.
-slug: top-fani-ofensati-liga-1
 date: 2026-01-07
 tags: ["FCSB", "CS U Craiova", "Rapid", "Dinamo"]
 permalink: "top-fani-ofensati-liga-1/index.html"

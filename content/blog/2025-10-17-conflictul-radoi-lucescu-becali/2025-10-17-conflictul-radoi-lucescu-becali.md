@@ -1,7 +1,6 @@
 ---
 title: Problema lui Rădoi cu urările lui Lucescu pentru FCSB (Video)
 description: Mulți sunt supărați că presa de sport îl supra expune pe Gigi Becali. Ar trebui să se bucure pentru că acesta e un semn de sănătate jurnalistică
-slug: conflict-radoi-lucescu
 date: 2025-10-17
 tags: ["FCSB", "CS U Craiova"]
 permalink: "conflict-radoi-lucescu-becali/index.html"

@@ -1,6 +1,5 @@
 ---
 title: E aproape clar cine câștigă titlul... Dar cine l-a pierdut?
-slug: rapid-a-pierdut-titlul
 date_published: 2024-04-08T07:36:15.000Z
 date_updated: 2024-06-30T10:32:30.000Z
 tags: ["Rapid", "FCSB", "CS U Craiova"]

@@ -1,7 +1,6 @@
 ---
 title: Ce ar trebui să știi despre demisia lui Rădoi de la Craiova
 description: Rădoi a făcut câteva erori majore în mandatul de la Craiova, dar sursa acestor erori poate fi și sursa succesului său în antrenorat
-slug: radoi-explicarea-demisiei
 date_published: 2022-12-08T14:03:44.000Z
 date_updated: 2024-06-30T11:54:40.000Z
 tags: ["CS U Craiova", "Mihai Rotaru", "Antrenori"]

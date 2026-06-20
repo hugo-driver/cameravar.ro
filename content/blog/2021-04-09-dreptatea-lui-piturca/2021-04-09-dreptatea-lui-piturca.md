@@ -1,7 +1,6 @@
 ---
 title: Fiți, bă, derby!
 description: "Cel mai mult îmi place la Pițurcă faptul că are dreptate chiar în timp ce toată lumea îl urăște cu maximă pasiune. Vezi cazul comentariilor din culisele de la Orange Sport"
-slug: dreptatea-lui-piturca
 date_published: 2021-04-08T21:34:00.000Z
 date_updated: 2024-06-30T16:11:15.000Z
 tags: ["Presa sportivă", "Mihai Rotaru"]

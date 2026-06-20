@@ -1,7 +1,6 @@
 ---
 title: Liderii galeriei Rapidului vor doar capul lui Daniel Niculae. Mutu e victimă colaterală
 description: Doar că Șucu nu pare intimidat. Nici Angelescu nu era slab în relație cu suporterii, dar acum poziția lor este și mai clară
-slug: galerie-rapid-niculae-sucu
 date_published: 2023-04-19T18:10:41.000Z
 date_updated: 2024-06-30T11:41:53.000Z
 tags: ["Rapid", "Suporteri"]

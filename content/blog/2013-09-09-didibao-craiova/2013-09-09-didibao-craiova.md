@@ -1,7 +1,6 @@
 ---
 title: Didibao Craiova
 description: "De ce spun că CSU Craiova este echipa Federației și alte mici amănunte care lămuresc pozițiile mele din acest moment."
-slug: didibao-craiova
 date_published: 2013-09-09T13:45:00.000Z
 date_updated: 2024-06-30T16:26:49.000Z
 tags: "CS U Craiova"

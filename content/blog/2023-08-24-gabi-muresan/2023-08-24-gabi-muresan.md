@@ -1,7 +1,6 @@
 ---
 title: Ce nu ar trebui să uite fanii FCSB legat de Gabi Mureșan
 description: Fostul fotbalist al CFR-ului a rămas în memoria multor fani drept omul care l-a accidentat pe Rusescu. În realitate, a fost mult mai mult de atât.
-slug: gabi-muresan
 date_published: 2023-08-24T10:30:22.000Z
 date_updated: 2024-06-30T11:06:37.000Z
 tags: ["CFR Cluj", "FCSB", "Suporteri"]

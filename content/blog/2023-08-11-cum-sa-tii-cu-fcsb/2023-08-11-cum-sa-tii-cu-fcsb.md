@@ -1,7 +1,6 @@
 ---
 title: Cum să ții cu FCSB
 description: Mini ghid pentru fanii ușor ofensabili care pierd din vedere că doar echipa lor ar trebui să le ofere satisfacții, nu și ziariștii care scriu despre aceasta
-slug: cum-sa-tii-cu-fcsb
 date_published: 2023-08-11T07:25:38.000Z
 date_updated: 2024-06-30T11:32:17.000Z
 tags: ["FCSB", "Suporteri"]

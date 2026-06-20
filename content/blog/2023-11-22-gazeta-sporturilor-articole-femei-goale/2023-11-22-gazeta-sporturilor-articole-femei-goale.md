@@ -1,7 +1,6 @@
 ---
 title: De ce publică Gazeta articole cu femei care-și flutură sânii prin arenele sportive
 description: Din păcate, Gazeta Sporturilor nu recunoaște diversitatea aproape monolitică a publicului său de bărbați albagii.
-slug: gazeta-sporturilor-articole-femei-goale
 date_published: 2023-11-22T09:48:05.000Z
 date_updated: 2024-06-30T10:54:25.000Z
 tags: Presa sportivă

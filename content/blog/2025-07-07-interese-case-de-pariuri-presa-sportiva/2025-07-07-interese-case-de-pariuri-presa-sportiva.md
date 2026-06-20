@@ -1,7 +1,6 @@
 ---
 title: Un sfat pentru colegii din presa sportivă - vă rog să fiți discreți când vine vorba de interesele industriei pariurilor
 description: Fanatik plânge pe umărul cocârjat de măsuri fiscale al celor de la Superbet. Ceea ce e penibil nu pentru că n-ar avea dreptate în ceea ce scriu, ci pentru că iau bani pe reclamă de la Superbet și-și vând astfel obiectivitatea în această poveste
-slug: interese-case-de-pariuri-presa-sportiva
 date_published: 2025-07-07T11:42:59.000Z
 date_updated: 2025-07-25T13:27:29.000Z
 tags: Presa sportivă

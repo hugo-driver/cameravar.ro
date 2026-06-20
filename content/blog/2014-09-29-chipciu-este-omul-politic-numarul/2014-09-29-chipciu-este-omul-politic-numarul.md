@@ -1,7 +1,6 @@
 ---
 title: Chipciu este omul politic numărul 1 de la Steaua
 description: "Vorbele și gesturile care arată calitățile de politician ale lui Alexandru Chipciu. Plus asemănările cu Mihai Stoica. În Liga 1 nu există un fotbalist mai abil din aceste perspectivă."
-slug: chipciu-este-omul-politic-numarul
 date_published: 2014-09-29T05:19:00.000Z
 date_updated: 2024-06-30T16:29:54.000Z
 tags: FCSB

@@ -1,7 +1,6 @@
 ---
 title: Cele 3 motive care duc la schimbări dese de antrenori în Liga 1
 description: Lipsa aproape generală de valoare a conducătorilor și a unor antrenori, dar și relația dintre cele două bresle duce la această situație
-slug: schimbare-antrenori-liga1
 date_published: 2022-11-22T09:49:11.000Z
 date_updated: 2024-06-30T11:56:09.000Z
 tags: ["Antrenori", "Conducători de club"]

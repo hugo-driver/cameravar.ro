@@ -1,7 +1,6 @@
 ---
 title: M-au dat afară
 description: Tocmai am fost anunțat că iAM Sport nu mai dorește să continue colaborarea cu mine, ceea ce mi se pare o chestie destul de OK din anumite puncte de vedere
-slug: m-au-dat-afara
 date: 2026-01-20
 tags: Presa sportivă
 permalink: "m-au-dat-afara/index.html"

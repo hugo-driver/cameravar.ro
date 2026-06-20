@@ -1,7 +1,6 @@
 ---
 title: Cum să te bucuri când un ziarist sportiv este dat afară
 description: Nu lăsa adevărul să strice o bucurie mare. Mai ales când e vorba de Mironică, Ioana Cosma și alții ca ei
-slug: concediere-ziaristi-sportivi-mironica-cosma
 date_published: 2023-01-21T09:10:43.000Z
 date_updated: 2024-06-30T11:54:00.000Z
 tags: Presa sportivă

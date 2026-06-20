@@ -1,6 +1,5 @@
 ---
 title: Ce greșesc dinamoviștii în povestea arbitrajului lui Adrian Cojocaru la Craiova-Dinamo (2-2)
-slug: eroare-dinamovisti-arbitraje
 date: 2025-09-27
 tags: ["Arbitraje", "Dinamo"]
 permalink: "eroare-dinamovisti-arbitraje/index.html"

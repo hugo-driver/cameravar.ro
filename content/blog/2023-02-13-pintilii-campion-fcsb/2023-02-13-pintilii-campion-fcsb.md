@@ -1,7 +1,6 @@
 ---
 title: Ce ar însemna dacă FCSB va câștiga campionatul cu Pintilii antrenor
 description: S-ar confirma un adevăr vechi de când lumea - nu e nevoie de carnet și licențe ca să fii antrenor. Statul și FRF capturează birocratic această meserie de dragul controlului asupra orice mișcă
-slug: pintilii-campion-fcsb
 date_published: 2023-02-13T08:41:32.000Z
 date_updated: 2024-06-30T11:52:13.000Z
 tags: ["Antrenori", "FCSB", "FRF"]

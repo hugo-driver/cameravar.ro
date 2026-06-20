@@ -1,7 +1,6 @@
 ---
 title: Ce ar putea gândi Mihai Rotaru despre numirea Șumudică la Craiova
 discriminare: Aducerea lui Șumudică poate fi tentantă, dar ar intra în conflict măcar cu o parte din ceea ce înseamnă finanțatorul oltenilor în fotbal
-slug: rotaru-sumudica
 date_published: 2023-07-25T09:33:54.000Z
 date_updated: 2024-02-10T06:50:18.000Z
 tags: ["Mihai Rotaru", "CS U Craiova"]

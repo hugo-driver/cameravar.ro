@@ -1,7 +1,6 @@
 ---
 title: De ce nu cred în ideea naturalizării de fotbaliști pentru națională
 description: "O echipă națională are ca principală trăsătură reprezentativitatea pentru țara respectivă. De asta i se mai și spune reprezentativă..."
-slug: naturalizare-fotbalisti-nationala-romaniei
 date_published: 2018-08-27T12:38:00.000Z
 date_updated: 2023-12-27T05:12:57.000Z
 tags: Echipa națională

@@ -1,7 +1,6 @@
 ---
 title: De ce e firesc ca N'Jie să joace în fața lui Rareș Pop
 description: Camerunezul nu este doar mai valoros decât este Pop în acest moment, dar din perspectiva calităților, e lejer în top 5 fotbaliști din Liga 1. Ca să nu spun top 3...
-slug: de-ce-njie-in-fata-lui-rares-pop
 date_published: 2024-11-11T10:19:09.000Z
 date_updated: 2024-11-11T10:21:35.000Z
 tags: Rapid

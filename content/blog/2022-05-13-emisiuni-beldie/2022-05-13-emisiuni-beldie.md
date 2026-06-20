@@ -1,7 +1,6 @@
 ---
 title: De ce nu am mai făcut emisiuni
 desciption: "Când am vrut eu, am fost dat afară sau n-am primit oferte. Când vor alții, nu mai vreau eu. Sau vreau în condiții dificil de acceptat de televiziuni."
-slug: emisiuni-beldie
 date_published: 2022-05-13T16:49:00.000Z
 date_updated: 2024-06-30T16:16:46.000Z
 tags: Presa sportivă

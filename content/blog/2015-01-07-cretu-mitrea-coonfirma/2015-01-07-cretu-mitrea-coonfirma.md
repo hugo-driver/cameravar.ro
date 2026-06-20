@@ -1,6 +1,5 @@
 ---
 title: Crețu și Mitrea confirmă. Cine-i ia?
-slug: cretu-mitrea-coonfirma
 description: "După eșecul temporar cu Ioniță II, încep totuși să am dreptate cu Crețu și Mitrea."
 date_published: 2015-01-07T21:32:00.000Z
 date_updated: 2024-06-30T16:31:08.000Z

@@ -1,6 +1,5 @@
 ---
 title: De ce transferă Mircea Rednic atât de mulți jucători (Video)
-slug: impresarul-rednic
 date_published: 2024-08-27T10:54:54.000Z
 date_updated: 2024-08-27T10:54:54.000Z
 tags: Antrenori

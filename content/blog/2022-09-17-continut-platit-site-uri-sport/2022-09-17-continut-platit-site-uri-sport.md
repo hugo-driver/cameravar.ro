@@ -1,7 +1,6 @@
 ---
 title: E timpul pentru conținut plătit pe site-urile de sport
 description: "Cred că gsp.ro, prosport.ro sau digisport.ro ar putea oferi contracost o variantă a site-ului fără reclame și trimiteri enervante către alte site-uri."
-slug: continut-platit-site-uri-sport
 date_published: 2022-09-17T17:31:40.000Z
 date_updated: 2024-06-30T12:09:41.000Z
 tags: Presa sportivă

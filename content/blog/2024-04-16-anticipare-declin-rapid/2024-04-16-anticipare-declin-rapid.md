@@ -1,6 +1,5 @@
 ---
 title: De ce am anticipat ce se poate întâmpla cu Rapid după victoria cu FCSB
-slug: anticipare-declin-rapid
 date_published: 2024-04-16T07:50:45.000Z
 date_updated: 2024-06-30T10:31:57.000Z
 tags: ["Rapid", "Presa sportivă"]

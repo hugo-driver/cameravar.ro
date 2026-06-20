@@ -1,7 +1,6 @@
 ---
 title: De unde a apărut fascinația pentru Dani Coman la Rapid
 description: Dincolo de argumente obiective, o parte dintre fanii Rapidului tânjesc după un tătuc care să le scoată fițele din cap fotbaliștilor
-slug: fascinatia-dani-coman-rapid
 date: 2026-05-06
 tags:  ["Rapid"]
 permalink: "fascinatia-dani-coman-rapid/index.html"

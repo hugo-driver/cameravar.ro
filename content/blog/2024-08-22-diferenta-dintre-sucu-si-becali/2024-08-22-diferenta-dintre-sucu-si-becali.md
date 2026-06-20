@@ -1,6 +1,5 @@
 ---
 title: De ce Șucu nu este ca Becali (Video)
-slug: diferenta-dintre-sucu-si-becal
 date_published: 2024-08-22T11:37:16.000Z
 date_updated: 2024-08-22T11:37:16.000Z
 tags: ["Dan Șucu", "Gigi Becali", "Rapid", "FCSB"]

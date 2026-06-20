@@ -1,7 +1,6 @@
 ---
 title: Avantajele și dezvantajele numirii lui Pintilii ca antrenor al FCSB
 description: Când vine vorba de numiri de antrenori, FCSB este un club de amatori. Prin urmare, au numit cel mai bun neprofesionist posibil - Pintilii
-slug: pintilii-fcsb-avantaje-dezavantaje
 date_published: 2022-12-01T13:15:45.000Z
 date_updated: 2024-06-30T11:55:38.000Z
 tags: ["FCSB", "Antrenori"]

@@ -1,7 +1,6 @@
 ---
 title: Varga greșește dacă-l dă afară pe Mandorlini de la CFR Cluj
 description: De ce demiterea lui Mandorlini ar fi o mare eroare pentru CFR Cluj și care e adevărata problemă a echipei ardelene.
-slug: demitere-mandorlini-eroare
 date_published: 2023-11-26T11:55:15.000Z
 date_updated: 2024-06-30T10:56:08.000Z
 tags: ["CFR Cluj", "Antrenori"]

@@ -1,7 +1,6 @@
 ---
 title: De ce voi merge mai rar în emisiuni
 description: Anul trecut, o luasem un pic razna - participam la prea multe emisiuni fără să fiu plătit pentru asta. Prin urmare, voi schimba total lucrurile
-slug: nu-mai-merg-in-emisiuni-gratis
 date: 2026-01-14
 tags: Presa sportivă
 permalink: "nu-mai-merg-in-emisiuni-gratis/index.html"

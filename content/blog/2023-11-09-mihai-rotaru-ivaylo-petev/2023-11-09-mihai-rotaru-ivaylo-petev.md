@@ -1,7 +1,6 @@
 ---
 title: De ce bulgarul Petev ar pute reuși la Craiova
 description: De ce decizia lui Rotaru de-a-l alege pe bulgarul Ivaylo Petev ca antrenor al Craiovei pare una foarte bună.
-slug: mihai-rotaru-ivaylo-petev
 date_published: 2023-11-09T07:47:18.000Z
 date_updated: 2024-06-30T10:55:20.000Z
 tags: ["Mihai Rotaru", "CS U Craiova", "Antrenori"]

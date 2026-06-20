@@ -1,7 +1,6 @@
 ---
 title: Ce a greșit Paul Iacob la Rapid
 description: În mare, Iacob a făcut o singură eroare - și-a cerut scuze fără nuanțe după incidentul de la finalul înfrângerii cu Craiova, când a sărit să bată un fan al giuleștenilor
-slug: ce-a-gresit-paul-iacob-la-rapid
 date_published: 2025-08-20T08:02:12.000Z
 date_updated: 2025-08-26T11:25:17.000Z
 tags: Rapid

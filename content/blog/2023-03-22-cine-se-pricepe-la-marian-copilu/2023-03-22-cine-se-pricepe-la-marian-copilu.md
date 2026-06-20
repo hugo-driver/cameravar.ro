@@ -1,7 +1,6 @@
 ---
 title: Cine se pricepe la Marian Copilu?
 description: Dacă m-aș pricepe, aș ști cine-i finanțează venirea la Petrolul. Adică la un club cu datorii de peste 2 Mil. Euro
-slug: cine-se-pricepe-la-marian-copilu
 date_published: 2023-03-22T13:53:37.000Z
 date_updated: 2024-02-10T07:11:32.000Z
 tags: ["Petrolul", "Suporteri"]

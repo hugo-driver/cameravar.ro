@@ -1,7 +1,6 @@
 ---
 title: Cei mai ziariști cu surse din presa sportivă
 description: Mulți ziariști au surse foarte bune, dar unii par să le aibă pe cele mai bune și pe cele mai multe. Desigur, părerea mea este evident personală, subiectivă și categoric corectă
-slug: ziaristi-cele-mai-bune-surse
 date_published: 2025-07-25T13:25:56.000Z
 date_updated: 2025-07-25T13:25:56.000Z
 tags: Presa sportivă

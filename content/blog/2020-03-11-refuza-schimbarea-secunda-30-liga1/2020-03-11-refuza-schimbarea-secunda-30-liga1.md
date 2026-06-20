@@ -1,7 +1,6 @@
 ---
 title: Dacă vrea să te scoată în secunda 30, refuză schimbarea!
 description: "Puștii care știu că au valoare, n-ar trebui să iasă. Nimeni nu le poate face nimic dacă refuză să iasă, iar șansele de-a conta în viitor sunt mai mari așa decât dacă acceptă schimbarea"
-slug: refuza-schimbarea-secunda-30-liga1
 date_published: 2020-03-11T13:30:00.000Z
 date_updated: 2023-12-27T05:02:27.000Z
 tags: Antrenori

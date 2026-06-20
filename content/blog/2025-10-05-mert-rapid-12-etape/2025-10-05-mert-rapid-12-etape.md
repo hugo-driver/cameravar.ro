@@ -1,6 +1,5 @@
 ---
 title: De ce Rapid merită ce a obținut în aceste 12 etape
-slug: merite-rapid-12-etape
 date: 2025-10-05
 tags: Rapid
 permalink: "merite-rapid-12-etape/index.html"

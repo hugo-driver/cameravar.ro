@@ -1,7 +1,6 @@
 ---
 title: De ce s-a vopsit Costin Ștucan
 description: Îl bănuiesc pe Costin de-o-ncercare reușită de-a obține atenție.Atât în momentul angajamentului de-a se vopsi roșu turbat dacă ne calificăm la Euro, dar mai ales în acest moment, când a trecut la fapte.
-slug: de-ce-s-a-vopsit-costin-stucan
 date_published: 2023-11-20T08:30:36.000Z
 date_updated: 2024-06-30T10:53:40.000Z
 tags: Presa sportivă

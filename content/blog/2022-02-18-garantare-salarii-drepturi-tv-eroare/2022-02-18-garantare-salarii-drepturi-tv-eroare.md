@@ -1,7 +1,6 @@
 ---
 title: De ce garantarea salariilor cu drepturile TV ar fi o greșeală
 description: "Am susținut ani de zile această idee, dar mi-am schimbat părerea - cluburile trebuie să-și gestioneze singure resursele chiar cu riscul unor dezastre financiare."
-slug: garantare-salarii-drepturi-tv-eroare
 date_published: 2022-02-18T21:24:00.000Z
 date_updated: 2023-12-26T16:44:54.000Z
 tags: Presa sportivă

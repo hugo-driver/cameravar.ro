@@ -1,7 +1,6 @@
 ---
 title: Ce mi-a atras atenția la sondajul Avangarde legat de iubiri, susțineri și alte emoții intense din fotbalul românesc
 description: Aparent, deși românii se pricep la fotbal sunt foarte timizi să-și dea cu părerea. Ceea ce, evident, indică mai degrabă că respondenții n-au fost chiar sinceri în tot și-n toate
-slug: sondaj-avangarde-suporteri-fotbal
 date_published: 2023-09-17T09:46:57.000Z
 date_updated: 2024-06-30T11:03:13.000Z
 tags: ["Suporteri", "FCSB", "Rapid", "CS U Craiova", "Dinamo", "CSA Steaua"]

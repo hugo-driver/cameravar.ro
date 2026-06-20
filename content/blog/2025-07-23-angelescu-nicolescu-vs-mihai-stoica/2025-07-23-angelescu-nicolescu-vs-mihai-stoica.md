@@ -1,7 +1,6 @@
 ---
 title: Ce șanse au Nicolescu și Angelescu în luptele de putere de la Prima Sport cu Mihai Stoica
 description: Miza principală a prezenței lor în emisiuni este influențarea arbitrajelor. Miza secundară e și ea importantă și ține mai ales de satisfacerea fanilor echipelor pe care le reprezintă
-slug: angelescu-nicolescu-vs-mihai-stoica
 date_published: 2025-07-23T09:42:19.000Z
 date_updated: 2025-07-25T13:26:48.000Z
 tags: ["Conducători de club", "Presa sportivă"]

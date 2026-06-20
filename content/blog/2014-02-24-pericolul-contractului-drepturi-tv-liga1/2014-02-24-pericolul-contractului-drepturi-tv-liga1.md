@@ -1,7 +1,6 @@
 ---
 title: Marele pericol legat de drepturile TV pentru Liga 1
 description: "Cluburile din prima ligă sunt atât de dependente de banii care vin din vânzarea drepturilor TV încât o eventuală ratare a acestei tranzacții ar fi dezastruoasă"
-slug: pericolul-contractului-drepturi-tv-liga1
 date_published: 2014-02-24T05:57:00.000Z
 date_updated: 2024-06-30T16:28:50.000Z
 tags: LPF

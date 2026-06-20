@@ -1,7 +1,6 @@
 ---
 title: Generația de soufflé
 description: De ce am numit această generație a echipei naționalei drept generația de soufflé. Și de ce am inclus în sintagmă și o parte a publicului, dar și a presei sportive.
-slug: generatia-de-souffle
 date_published: 2024-06-19T18:39:36.000Z
 date_updated: 2024-06-30T10:27:37.000Z
 tags: ["Echipa națională", "Suporteri"]

@@ -1,7 +1,6 @@
 ---
 title: De ce verdictele legate de arbitraj din emisiuni contează în lupta pentru titlu
 description: Expresia "meciul se joacă doar pe teren" e desuetă. Meciurile se joacă inclusiv în emisiunile în care se analizează arbitrajele din Liga 1
-slug: campionatul-joaca-emisiuni-analiza-arbitraje
 date: 2026-02-15
 tags: ["FCSB", "Arbitraje"]
 permalink: "campionatul-joaca-emisiuni-analiza-arbitraje/index.html"

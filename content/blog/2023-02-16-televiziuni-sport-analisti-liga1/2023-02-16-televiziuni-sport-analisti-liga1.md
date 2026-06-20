@@ -1,7 +1,6 @@
 ---
 title: De ce televiziunile de sport ar trebui să renunțe la analiștii "sub acoperire" (angajați ai cluburilor)
 description: Analiza Ligii 1 este viciată de analiștii care joacă rol dublu. Aceștia nu doar că nu sunt obiectivi, dar nici măcar n-au de ce să-și propună să fie
-slug: televiziuni-sport-analisti-liga1
 date_published: 2023-02-16T09:26:36.000Z
 date_updated: 2024-02-10T06:59:36.000Z
 tags: ["Presa sportivă", "Conducători de club"] 

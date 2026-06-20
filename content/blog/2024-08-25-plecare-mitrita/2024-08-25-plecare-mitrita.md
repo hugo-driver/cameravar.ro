@@ -1,7 +1,6 @@
 ---
 title: Ce se va întâmpla cu Craiova dacă pleacă Mitriță?
 description: Unii cred că o eventuală plecare a celui mai bun jucător ofensiv al oltenilor va echivala cu o scădere masivă a șanselor la titlu. Sunt doar parțial de acord...
-slug: plecare-mitrita
 date_published: 2024-08-25T11:02:12.000Z
 date_updated: 2024-08-25T11:02:12.000Z
 tags: CS U Craiova

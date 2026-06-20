@@ -1,6 +1,5 @@
 ---
 title: Ai nevoie de ajutor? Scrie-mi în privat și cere-mi să te blochez
-slug: cere-i-lui-beldie-sa-te-blocheze
 date_published: 2025-09-01T11:55:02.000Z
 date_updated: 2025-09-14T19:57:35.000Z
 tags: ["Suporteri", "Presa sportivă"]

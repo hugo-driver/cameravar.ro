@@ -1,7 +1,6 @@
 ---
 title: Ce jucător îmi place de la fiecare echipă din Liga 1
 description: Am nominalizat un singur jucător de la fiecare echipă din Liga 1. La unele aș fi nominalizat mai mulți, la alții am avut mari dificultăți să identific pe cineva.
-slug: jucatori-preferati-beldie-liga-1
 date: 2025-10-08
 tags: Presa sportivă
 permalink: "jucatori-preferati-beldie-liga-1/index.html"

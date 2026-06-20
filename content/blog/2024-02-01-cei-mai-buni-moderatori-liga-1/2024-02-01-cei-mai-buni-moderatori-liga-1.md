@@ -1,7 +1,6 @@
 ---
 title: "Cine are moderatori mai buni: Digi Sport vs. Orange Sport"
 description: Topul celor mai buni moderatori de emisiuni dedicate analizei Ligii 1 - Radu Naum, Dan Udrea, Silviu Tudor Samuilă și Vali Moraru
-slug: cei-mai-buni-moderatori-liga-1
 date_published: 2024-02-01T10:41:26.000Z
 date_updated: 2024-06-30T10:43:19.000Z
 tags: Presa sportivă

@@ -1,7 +1,6 @@
 ---
 title: De ce nu cred în varianta “Becali sau Orlando Nicoară l-a controlat pe Radu Petrescu la Petrolul - FC Argeș (2-1)
 description: Nu spun că nu e posibil inclusiv un scenariu sinistru, doar că eu cred într-o variantă mai puțin spectaculoasă legată de ce a făcut Radu Petrescu
-slug: radu-petrescu-control-becali-nicoara
 date: 2026-02-14
 tags: ["FCSB", "Arbitraje"]
 permalink: "radu-petrescu-control-becali-nicoara/index.html"

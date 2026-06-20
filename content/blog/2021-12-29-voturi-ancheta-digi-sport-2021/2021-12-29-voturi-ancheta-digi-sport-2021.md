@@ -1,7 +1,6 @@
 ---
 title: Cum am votat în ancheta Digi Sport pentru superlativele Ligii 1 în 2021
 description: "Voturile mele sunt în acord cu felul în care văd eu fotbalul. Nu sunt alegeri bazate pe statistici sau alte elemente matematice, ci e vorba, în final, de chestiuni subiective."
-slug: voturi-ancheta-digi-sport-2021
 date_published: 2021-12-29T07:03:00.000Z
 date_updated: 2023-12-27T04:42:39.000Z
 tags: Presa sportivă

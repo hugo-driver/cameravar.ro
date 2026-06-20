@@ -1,7 +1,6 @@
 ---
 title: Ce va fi cu Golazo.ro?
 description: Tolontan se află din nou în postura de-a construi ceva de la zero, dar fără sprijinul vizionar al lui Adrian Sârbu, fără Ovidiu Ioanițoaia, fără o televiziune în spate. Și fără banii caselor de pariuri, cel puțin momentan.
-slug: ce-va-fi-cu-golazo-ro
 date_published: 2024-07-06T17:42:20.000Z
 date_updated: 2024-07-07T11:11:32.000Z
 tags: Presa sportivă

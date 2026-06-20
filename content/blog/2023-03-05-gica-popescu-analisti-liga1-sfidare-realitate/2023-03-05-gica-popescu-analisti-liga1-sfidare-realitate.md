@@ -1,7 +1,6 @@
 ---
 title: De ce Gică Popescu și alți analiști ai Ligii 1 sfidează realitatea când vine vorba de arbitraje
 description: Cu cât o echipă are oficiali mai vocali, cu atât e mai probabil ca respectivul club să încerce să pună presiune pe arbitri. UTA a fost bătaie de joc a arbitrilor și abia etapa trecută a deschis gura
-slug: gica-popescu-analisti-liga1-sfidare-realitate
 date_published: 2023-03-05T17:03:25.000Z
 date_updated: 2024-06-30T11:49:53.000Z
 tags: ["Presa sportivă", "Arbitraje", "Conducători de club"]

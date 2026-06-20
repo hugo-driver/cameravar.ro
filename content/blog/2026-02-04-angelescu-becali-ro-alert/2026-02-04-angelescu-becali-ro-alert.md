@@ -1,6 +1,5 @@
 ---
 title: Angelescu ar trebui să învețe de la Becali RO-Alert
-slug: angelescu-becali-ro-alert
 date: 2026-02-04
 tags: Rapid
 permalink: "angelescu-becali-ro-alert/index.html"

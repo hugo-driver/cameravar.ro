@@ -1,7 +1,6 @@
 ---
 title: Cel mai important lucru care se va întâmpla sezonul viitor
 description: Schimbarea de strategie de la CFR Cluj va fi cea mai influentă mișcare în ceea ce privește lupta la titlu în prima ligă
-slug: marea-schimbarea-cfr
 date_published: 2023-06-04T16:48:15.000Z
 date_updated: 2024-06-30T11:39:19.000Z
 tags: CFR Cluj

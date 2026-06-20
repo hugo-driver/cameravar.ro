@@ -1,6 +1,5 @@
 ---
 title: Sper ca Drejan să nu-și ceară scuze
-slug: sper-ca-drejan-sa-nu-si-ceara-scuze
 date_published: 2024-06-27T17:45:43.000Z
 date_updated: 2024-06-30T10:48:30.000Z
 tags: ["Presa sportivă", "Suporteri", "Echipa națională"]

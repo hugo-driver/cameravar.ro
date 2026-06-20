@@ -1,7 +1,6 @@
 ---
 title: De ce ar trebui să săruți de 18 ori pe zi tălpile destul de curate ale presei sportive
 description: Prin comparație cu presa generalistă sau cu majoritatea publicațiilor de nișă, site-urile de sport sunt adevărate oaze de jurnalism. Repet, prin comparație...
-slug: suprematia-presei-sportive
 date_published: 2023-04-07T07:56:05.000Z
 date_updated: 2024-06-30T11:42:34.000Z
 tags: ["Presa sportivă", "Suporteri"]

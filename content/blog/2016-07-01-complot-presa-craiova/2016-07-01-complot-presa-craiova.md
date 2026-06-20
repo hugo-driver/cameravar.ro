@@ -1,7 +1,6 @@
 ---
 title: Comploturile presei de la București împotriva Craiovei
 description: "La Craiova, există credința că ziariștii din Capitală au ceva cu echipa lor. Sigur, puțini ziariști chiar sunt bucureșteni, dar oricum..."
-slug: complot-presa-craiova
 date_published: 2016-07-01T20:17:00.000Z
 date_updated: 2024-06-30T16:35:03.000Z
 tags: ["CS U Craiova", "Presa sportivă"]

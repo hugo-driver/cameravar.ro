@@ -1,7 +1,6 @@
 ---
 title: De ce consider că FCSB este continuatoarea ideii de Steaua
 description: "Echipa lui Becali a activat neîntrerupt în Liga 1 și continuitatea ei de necontestat este motivul principal pentru care inclusiv marea masă a suporterilor o recunosc."
-slug: de-ce-fcsb-este-steaua
 date_published: 2017-02-16T18:55:00.000Z
 date_updated: 2024-06-30T16:38:48.000Z
 tags: ["FCSB", "CSA Steaua"]

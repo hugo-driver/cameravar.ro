@@ -1,6 +1,5 @@
 ---
 title: "Veste proastă pentru unii dintre fanii lui Dinamo: e timpul să vă placă Andrei Nicolescu (Video)"
-slug: merite-andrei-nicolescu
 date_published: 2024-08-23T12:07:05.000Z
 date_updated: 2024-08-23T12:07:05.000Z
 tags: Dinamo

@@ -1,6 +1,5 @@
 ---
 title: Sunt bun, dar nu pentru toată lumea
-slug: noul-val-de-analisti-baciu-rusescu
 date: 2025-09-20
 tags: Presa sportivă
 permalink: "sunt-bun-dar-nu-pentru-toata-lumea/index.html"

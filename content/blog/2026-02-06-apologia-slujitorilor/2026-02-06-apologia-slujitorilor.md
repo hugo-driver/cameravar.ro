@@ -1,7 +1,6 @@
 ---
 title: Apologia limbajului primitiv al domnului Becali
 description: Becali ar trebui să fie apreciat măcar pentru simplu fapt că este extrem de sincer și direct în discursul său primitiv
-slug: apologia-arhaismului-becalian
 date: 2026-02-06
 tags: Gigi Becali
 permalink: "apologia-arhaismului-becalian/index.html"

@@ -1,7 +1,6 @@
 ---
 title: Cum să fii ipocrit în stil Gazeta Sporturilor
 description: "Ce știe ziarul despre cazul Mangia și nu spune pentru că nu poți da o galerie foto cu 40 de imagini ale suferinței italianului. Nici a eventualei sale victime."
-slug: ipocrizie-gsp-mangia
 date_published: 2022-09-29T16:44:20.000Z
 date_updated: 2024-06-30T12:05:19.000Z
 tags: Presa sportivă

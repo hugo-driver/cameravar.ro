@@ -1,7 +1,6 @@
 ---
 title: De ce îmi place încercarea CFR Cluj legată de fotbaliștii africani
 description: Asemeni celorlalte cluburi serioase din Liga 1, ardelenii și-au dat seama că fotbalul nostru ar trebui să fie unul de producție. Doar că au ales o materie primă diferită
-slug: fotbalisti-africani-cfr-cluj
 date_published: 2022-10-12T15:08:27.000Z
 date_updated: 2024-06-30T12:01:56.000Z
 tags: CFR Cluj

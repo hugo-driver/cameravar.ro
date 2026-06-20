@@ -1,7 +1,6 @@
 ---
 title: FCSB nu are lot, nu are echipă și nu are timp
 description: "Lotul nu este lot, iar echipa nu este echipă în acest moment. Dică are nevoie de timp, adică exact ce nu-i oferă patronul."
-slug: problema-fcsb
 date_published: 2022-09-13T15:13:07.000Z
 date_updated: 2024-06-30T16:01:35.000Z
 tags: FCSB

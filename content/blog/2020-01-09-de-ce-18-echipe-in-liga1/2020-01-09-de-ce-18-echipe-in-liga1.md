@@ -1,7 +1,6 @@
 ---
 title: De ce militez pentru 18 echipe în Liga 1
 description: "Și nu doar atât. E timpul să revenim la un sistem clasic de desfășurare a campionatului, fără play off și play out."
-slug: de-ce-18-echipe-in-liga1
 date_published: 2020-01-09T12:38:00.000Z
 date_updated: 2024-02-10T07:08:59.000Z
 tags: ["LPF", "FRF", "Presa sportivă"]

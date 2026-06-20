@@ -1,7 +1,6 @@
 ---
 title: Ce va fi cu FCSB când Gigi Becali nu va mai fi
 description: "Disputa pentru palmares i-a făcut pe mulți să se uite prea mult la trecutul FCSB și prea puțin la cum va arăta viitorul clubului după era Gigi Becali"
-slug: fcsb-dupa-era-gigi-becali
 date: 2025-12-10
 tags: ["FCSB", "Gigi Becali"]
 permalink: "fcsb-dupa-era-gigi-becali/index.html"

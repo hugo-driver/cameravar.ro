@@ -1,7 +1,6 @@
 ---
 title: Cazul Udrea - Tudose - FCSB
 description: M-a sunat Mihai Stoica să-mi zică să fac un interviu cu tatăl profesional al lui Dan Udrea, Cătălin Tolontan, din care să reiasă că nu mai vrea la Golazo / Prima Sport și vrea să treacă la FCSB... Glumesc la început ca să pot vorbi în continuare serios despre subiect
-slug: cazul-udrea-tudose-fcsb
 date: 2025-09-20
 tags: Presa sportivă
 permalink: "cazul-udrea-tudose-fcsb/index.html"

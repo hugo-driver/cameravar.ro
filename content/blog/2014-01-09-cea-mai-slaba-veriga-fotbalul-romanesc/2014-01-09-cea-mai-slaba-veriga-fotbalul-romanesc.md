@@ -1,7 +1,6 @@
 ---
 title: Cea mai slabă verigă din fotbalul românesc
 description: "Conducătorii de club sunt de departe cea mai slab pregătită brealsă din fotbalul nostru și principalii responsabili pentru subfinanțarea industriei"
-slug: cea-mai-slaba-veriga-fotbalul-romanesc
 date_published: 2014-01-09T20:49:00.000Z
 date_updated: 2024-06-30T16:27:22.000Z
 tags: "Conducători de club"

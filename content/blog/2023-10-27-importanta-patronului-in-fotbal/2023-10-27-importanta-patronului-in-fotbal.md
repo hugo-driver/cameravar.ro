@@ -1,7 +1,6 @@
 ---
 title: De ce patronul este mai important decât suporterii
 description: Sorin Cârțu susține că patronul este cel mai important om din fotbalul. Îi dau dreptate, deși în trecut aveam o părere parțial diferită.
-slug: importanta-patronului-in-fotbal
 date_published: 2023-10-27T16:24:47.000Z
 date_updated: 2024-06-30T10:57:39.000Z
 tags: ["Suporteri", "CS U Craiova", "Rapid"]

@@ -1,7 +1,6 @@
 ---
 title: De ce nu folosesc sintagma SuperLiga
 discription: "De ani buni insist că avem un campionat bun raportat la finanțarea sa, dar titulatura Superliga mi se pare exagerată"
-slug: de-ce-nu-superliga-liga1
 date_published: 2022-09-14T08:01:00.000Z
 date_updated: 2024-06-30T12:10:13.000Z
 tags: ["Presa sportivă", "LPF"]

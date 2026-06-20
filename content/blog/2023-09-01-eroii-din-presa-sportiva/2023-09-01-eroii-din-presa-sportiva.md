@@ -1,7 +1,6 @@
 ---
 title: Eroii de benzi desenate din presa sportivă
 description: Deși fotbalul românesc pare devorat de niște monștri înfiorători, ziaristul sportiv nu cedează în fața asaltului lacom al acestora bla-bla, bla-blum
-slug: eroii-din-presa-sportiva
 date_published: 2023-09-01T12:47:16.000Z
 date_updated: 2024-06-30T11:05:50.000Z
 tags: Presa sportivă

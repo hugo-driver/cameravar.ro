@@ -1,7 +1,6 @@
 ---
 title: De ce accept uneori să fiu înjurat pe Facebook
 description: "Sunt des întrebat de ce nu-i blochez pe cei care mă-njură pe rețelele sociale ca urmare a textelor pe care le scriu. Am mai multe explicații."
-slug: ce-faci-cand-esti-injurat-pe-facebook
 date_published: 2017-02-23T14:06:00.000Z
 date_updated: 2024-06-30T16:41:04.000Z
 tags: ["Suporteri", "Presa sportivă", "CSA Steaua", "CS U Craiova"]

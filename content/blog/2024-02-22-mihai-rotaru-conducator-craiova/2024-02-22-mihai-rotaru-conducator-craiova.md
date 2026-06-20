@@ -1,6 +1,5 @@
 ---
 title: De ce Mihai Rotaru n-ar trebui să facă un pas în spate la Craiova
-slug: mihai-rotaru-conducator-craiova
 date_published: 2024-02-22T12:39:31.000Z
 date_updated: 2024-06-30T10:40:32.000Z
 tags: ["Mihai Rotaru", "CS U Craiova"]

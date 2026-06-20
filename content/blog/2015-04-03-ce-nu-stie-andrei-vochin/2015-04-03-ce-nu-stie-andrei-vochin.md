@@ -1,7 +1,6 @@
 ---
 title: Ce pare să nu știe Andrei Vochin despre munca sa la FRF
 description: "Ziaristul cu cel mai profund autocontrol pe care l-am cunoscut face eroarea de-a acționa emoțional în funcție de lucruri care chiar nu se află sub controlul său."
-slug: ce-nu-stie-andrei-vochin
 date_published: 2015-04-03T15:46:00.000Z
 date_updated: 2024-06-30T16:31:56.000Z
 tags: ["FRF", "Antrenori"]

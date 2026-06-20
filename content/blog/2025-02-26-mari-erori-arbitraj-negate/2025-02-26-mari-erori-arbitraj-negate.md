@@ -1,7 +1,6 @@
 ---
 title: Motivul freudian pentru care oamenii din fotbal refuză să recunoască erorile de arbitraj care-i avantajează
 description: Conducători de club, antrenori și jucători se dau peste cap să sfideze realitatea erorilor de arbitraj care îi avantajează dintr-o rațiune simplă - sunt complexați.
-slug: mari-erori-arbitraj-negate
 date_published: 2025-02-26T07:08:05.000Z
 date_updated: 2025-02-26T07:08:05.000Z
 tags: ["Conducători de club", "Arbitraje"]

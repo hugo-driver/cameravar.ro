@@ -1,7 +1,6 @@
 ---
 title: Ce l-a ajutat pe Rădoi să reușească la tineret
 description: "Pur profesional, puține lucruri anunțau succesul lui Rădoi. Totuși, acele lucruri au contat neașteptat de mult."
-slug: explicatii-succes-radoi-tineret
 date_published: 2018-10-17T13:30:00.000Z
 date_updated: 2024-06-30T16:42:33.000Z
 tags: ["Echipa națională", "Antrenori"]

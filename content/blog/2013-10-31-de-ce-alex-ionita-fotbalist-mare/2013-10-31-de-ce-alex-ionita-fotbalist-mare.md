@@ -1,6 +1,5 @@
 ---
 title: De ce cred că Alex Ioniță ar putea fi un fotbalist special
-slug: de-ce-alex-ionita-fotbalist-mare
 date_published: 2013-10-31T20:39:00.000Z
 date_updated: 2024-06-30T16:27:04.000Z
 tags: Rapid

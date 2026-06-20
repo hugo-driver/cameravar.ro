@@ -1,7 +1,6 @@
 ---
 title: De ce este greu pentru FCSB să-și aducă antrenor
 description: Mulți se autopropun ca antrenori la FCSB, dar cine-i suficient de bun ca profesionist, dar și suficient de umil ca să-l lase pe Becali să se joace cu schimbările
-slug: antrenor-cu-intarziere-fcsb
 date: 2026-04-28
 tags: ["FCSB", "Gigi Becali"]
 permalink: "antrenor-cu-intarziere-fcsb/index.html"

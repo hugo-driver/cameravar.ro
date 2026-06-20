@@ -1,7 +1,6 @@
 ---
 title: De ce nu cred în viitorul CSA Steaua
 description: Există două mari motive care mă fac să cred că această echipă de fotbal n-are viitor. Niciunul nu are legătură cu legislația sau cu dificultatea asocierii cu un privat. 
-slug: de-ce-nu-cred-in-viitorul-csa-steaua
 date_published: 2023-08-22T09:15:16.000Z
 date_updated: 2024-06-29T17:47:09.000Z
 tags: ["CSA Steaua", "FCSB", "Suporteri"]

@@ -1,7 +1,6 @@
 ---
 title: De ce Gazeta îi numește pe Becali, Șucu și Varga “investitori pe banii altora” (Text + Video)
 description: Aparent, pare doar efectul unei lipse temporare de logică a colegilor mei, dar e posibil să fie vorba de ceva mai mult
-slug: gazeta-investitori-pe-banii-altora
 date_published: 2024-09-19T09:52:28.000Z
 date_updated: 2024-09-19T09:52:28.000Z
 tags: Presa sportivă

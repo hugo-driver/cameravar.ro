@@ -1,7 +1,6 @@
 ---
 title: De ce m-a „lăsat” sport.ro să plec
 description: "sport.ro m-a dat afară pentru că a avut de ales între mine și alții. Iar alții au fost considerați mai buni sau chiar au fost mai buni."
-slug: plecare-beldie-sport-ro
 date_published: 2014-05-17T17:26:00.000Z
 date_updated: 2024-06-30T16:29:39.000Z
 tags: Presa sportivă

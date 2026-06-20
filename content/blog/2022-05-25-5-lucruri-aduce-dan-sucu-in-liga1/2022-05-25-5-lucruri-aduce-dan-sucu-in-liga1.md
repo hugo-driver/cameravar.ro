@@ -1,7 +1,6 @@
 ---
 title: 5 lucruri pe care le poate aduce Dan Șucu în Liga 1
 description: "Șucu este un om de afaceri diferit de cei care au intrat în mod tradițional în fotbalul nostru, iar asta ar putea avea niște urmări aparte"
-slug: 5-lucruri-aduce-dan-sucu-in-liga1
 date_published: 2022-05-25T12:04:00.000Z
 date_updated: 2024-06-30T16:03:19.000Z
 tags: ["Dan Șucu", "Rapid"]

@@ -1,7 +1,6 @@
 ---
 title: Antrenorii ar trebui să antreneze chiar și-n condiții super dificile sau ar trebui să aștepte ceva serios??
 description: Din ce în ce mai mulți antrenori aleg să refuze ofertele pe care le primesc pentru că nu sunt genul de proiect serios la care ar vrea să se înhame. În ritmul acesta, riscă să piardă oportunitatea ca proiectele serioase să-i caute
-slug: antrenori-care-antreneaza
 date_published: 2024-07-25T15:03:51.000Z
 date_updated: 2024-07-25T15:03:51.000Z
 tags: Antrenori

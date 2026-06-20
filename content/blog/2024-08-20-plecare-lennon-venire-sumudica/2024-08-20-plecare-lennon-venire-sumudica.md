@@ -1,7 +1,6 @@
 ---
 title: Ce-nseamnă de fapt demiterea lui Lennon și aducerea lui Șumudică la Rapid
 description: În mare, înseamnă un singur lucru - Șucu și-a pierdut încrederea în ce crede el despre fotbal și a cedat unor presiuni care n-au legătură doar cu rezultatele slabe ale echipei
-slug: plecare-lennon-venire-sumudica
 date_published: 2024-08-20T16:34:59.000Z
 date_updated: 2024-08-21T09:21:01.000Z
 tags: ["Rapid", "Dan Șucu", "Antrenori"]

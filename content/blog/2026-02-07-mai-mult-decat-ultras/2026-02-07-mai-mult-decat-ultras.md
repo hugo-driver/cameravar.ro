@@ -1,7 +1,6 @@
 ---
 title: Oricine poate fi ultras, dar puțini pot face ce fac eu
 description: Suporterii obișnuiesc să glorifice ideea de ultras, dar există ceva aflat la un nivel și mai extrem de atât
-slug: mai-mult-decat-ultras
 date: 2026-02-07
 tags: Presa sportivă
 permalink: "mai-mult-decat-ultras/index.html"

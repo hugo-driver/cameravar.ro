@@ -1,7 +1,6 @@
 ---
 title: De ce noul format al Cupei României îi irită pe mulți
 description: "Orice schimbare masivă adusă unui produs riscă să-i enerveze pe cei care consumă produsul. Mai ales dacă ai complicat inutil lucrurile."
-slug: noul-format-cupa-romaniei-enerveaza
 date_published: 2022-10-01T07:13:48.000Z
 date_updated: 2024-06-30T12:04:12.000Z
 tags: FRF

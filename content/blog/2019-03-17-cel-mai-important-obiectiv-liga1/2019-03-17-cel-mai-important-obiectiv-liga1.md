@@ -1,7 +1,6 @@
 ---
 title: Cel mai important obiectiv pentru cluburi și LPF
 description: "Aducerea de spectatori în tribune ar trebui să fie prioritate absolută pentru cluburile din Liga 1 dacă vrem să avem din nou un fotbal care să conteze."
-slug: cel-mai-important-obiectiv-liga1
 date_published: 2019-03-17T12:25:00.000Z
 date_updated: 2024-02-10T07:15:59.000Z
 tags: ["LPF", "Suporteri"]

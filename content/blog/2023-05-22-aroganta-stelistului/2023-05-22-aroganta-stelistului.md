@@ -1,7 +1,6 @@
 ---
 title: Aroganța stelistului
 description: O bună parte a celor care susțin echipa lui Becali au impresia că sezonul actual este unul ratat. Ar putea avea dreptate, dar n-au
-slug: aroganta-stelistului
 date_published: 2023-05-22T06:45:19.000Z
 date_updated: 2024-06-30T11:41:29.000Z
 tags: ["Suporteri", "FCSB"]

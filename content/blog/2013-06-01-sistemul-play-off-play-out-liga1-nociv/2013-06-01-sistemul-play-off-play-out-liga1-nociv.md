@@ -1,7 +1,6 @@
 ---
 title: "De ce nu-mi place sistemul cu play off și play out"
 description:  "Acest sistem este impus de televiziuni ca o formă de-a exploata maxim produsul Liga 1 fără interes față de consecințele pe termen mediu ale acestei idei."
-slug: sistemul-play-off-play-out-liga1-nociv
 date_published: 2013-06-01T04:36:00.000Z
 date_updated: 2024-06-30T12:10:42.000Z
 tags: LPF

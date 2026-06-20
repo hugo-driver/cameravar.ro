@@ -1,7 +1,6 @@
 ---
 title: De ce Digi Sport ar trebui să-i aducă pe Ion Crăciunescu și pe Marius Avram în aceeași emisiune
 description: Digi Sport n-ar trebui să aleagă între Crăciunescu și Avram, ci să-i folosească pe amândoi chiar în aceeași emisiune
-slug: digi-sport-emisiune-craciunescu-avram
 date_published: 2023-12-15T09:02:53.000Z
 date_updated: 2024-06-30T10:55:41.000Z
 tags: ["Presa sportivă", "Arbitraje"]

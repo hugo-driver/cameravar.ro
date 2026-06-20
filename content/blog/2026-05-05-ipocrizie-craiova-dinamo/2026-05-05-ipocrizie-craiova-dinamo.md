@@ -1,7 +1,6 @@
 ---
 title: Craiova și Dinamo au reacții penibile legate de arbitraj
 description: Cele două echipe se comportă clasic ipocrit când vine vorba de arbitraje - e totul în regulă dacă-i avantajează și e jale dacă-i fură
-slug: ipocrizie-craiova-dinamo-arbitraje
 date: 2026-05-05
 tags: ["Arbitraje", "Dinamo", "CS U Craiova"]
 permalink: "ipocrizie-craiova-dinamo-arbitraje/index.html"

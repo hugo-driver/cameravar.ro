@@ -1,7 +1,6 @@
 ---
 title: Conflictul rapidist dintre albi și vișinii
 description: Cel mai spectaculos lucru la Rapid este disputa online dintre fanii care susțin aproape orbește direcția în care merge clubul și cei care cred la fel de orbește că orice face Șucu e o imensă eroare. 
-slug: conflictul-dintre-albi-si-visinii
 date_published: 2024-07-11T16:36:30.000Z
 date_updated: 2024-07-12T06:07:50.000Z
 tags: ["Rapid", "Suporteri"]

@@ -1,7 +1,6 @@
 ---
 title: De ce Dan Șucu ar fi riscat prea mult dacă-l numea pe Cristi Chivu la Rapid
 description: Poate să pară amuzant - antrenorul lui Inter nu a fost suficient de valoros ca să antreneze Rapidul. Și totuși, conștient sau nu, Șucu a făcut o alegere logică
-slug: chivu-la-rapid-risc-prea-mare
 date_published: 2025-06-08T15:48:08.000Z
 date_updated: 2025-06-08T15:48:08.000Z
 tags: ["Dan Șucu", "Rapid", "Antrenori"]

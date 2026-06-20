@@ -1,7 +1,6 @@
 ---
 title: De ce cred că Dinamo va fi bine după schimbarea acționariatului
 descriptiont: Cel mai important lucru pentru Dinamo este să-și asigure existența. Să nu dispară. Fără această condiție, totul este inutil. Inclusiv statutul de suporter al lui Dinamo
-slug: dinamo-va-fi-bine
 date_published: 2023-03-09T09:52:43.000Z
 date_updated: 2024-06-30T11:48:40.000Z
 tags: Dinamo

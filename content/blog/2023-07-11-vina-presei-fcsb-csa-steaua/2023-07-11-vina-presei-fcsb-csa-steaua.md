@@ -1,7 +1,6 @@
 ---
 title: Este presa de vină pentru "confuzia" fanilor FCSB apropo de adevărata Steaua?
 description: O credință des vehiculată a fanilor CSA Steaua este că presa-i vinovată pentru "confuzia" fanilor FCSB care nu-și dau seama care-i adevărata Steaua.
-slug: vina-presei-fcsb-csa-steaua
 date_published: 2023-07-11T16:28:38.000Z
 date_updated: 2024-06-30T11:36:11.000Z
 tags: ["FCSB", "CSA Steaua", "Presa sportivă"]

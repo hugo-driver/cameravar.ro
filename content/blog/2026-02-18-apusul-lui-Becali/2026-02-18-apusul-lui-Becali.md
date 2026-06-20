@@ -1,7 +1,6 @@
 ---
 title: Cel mai mare pericol pentru FCSB
 description: Becali a ajuns în era în care nu mai este suficient să nu facă greșeli majore ca să mențină clubul în fruntea fotbalului românesc
-slug: cel-mai-mare-pericol-fcsb
 date: 2026-02-18
 tags: ["FCSB", "Gigi Becali"]
 permalink: "cel-mai-mare-pericol-fcsb/index.html"

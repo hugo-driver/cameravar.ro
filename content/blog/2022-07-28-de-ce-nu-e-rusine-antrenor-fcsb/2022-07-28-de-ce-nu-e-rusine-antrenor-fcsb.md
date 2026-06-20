@@ -1,6 +1,5 @@
 ---
 title: "Temă falsă: e o rușine să accepți oferte de la Becali"
-slug: de-ce-nu-e-rusine-antrenor-fcsb
 date_published: 2022-07-28T13:53:00.000Z
 date_updated: 2024-02-10T07:17:12.000Z
 tags: ["FCSB", "Gigi Becali", "Antrenori"]

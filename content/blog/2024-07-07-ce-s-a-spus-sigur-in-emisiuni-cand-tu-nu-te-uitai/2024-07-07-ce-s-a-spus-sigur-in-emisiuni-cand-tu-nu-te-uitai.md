@@ -1,7 +1,6 @@
 ---
 title: Ce s-a spus sigur în emisiuni când tu nu te uitai
 description: Așa cum Ilie Dumitrescu are stilul său inclusiv când duce gunoiul, așa și ceilalți ziariști sau analiști care apar în emisiunile dedicate fotbalului au stilul lor greu de confundat
-slug: ce-s-a-spus-sigur-in-emisiuni-cand-tu-nu-te-uitai
 date_published: 2024-07-07T10:31:20.000Z
 date_updated: 2024-07-07T11:33:28.000Z
 tags: Presa sportivă

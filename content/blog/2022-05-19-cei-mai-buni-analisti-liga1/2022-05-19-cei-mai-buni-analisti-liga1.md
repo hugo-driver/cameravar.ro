@@ -1,7 +1,6 @@
 ---
 title: Cei mai buni analiști ai Ligii 1
 description: "Așa arată preferințele mele la ora actuală când vine vorba de personajele care analizează meciurile și evenimentele din Liga 1."
-slug: cei-mai-buni-analisti-liga1
 date_published: 2022-05-19T18:51:00.000Z
 date_updated: 2024-06-30T16:06:56.000Z
 tags: Presa sportivă

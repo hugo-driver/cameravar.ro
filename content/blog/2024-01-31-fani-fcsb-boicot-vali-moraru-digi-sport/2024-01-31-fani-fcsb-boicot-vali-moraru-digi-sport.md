@@ -1,7 +1,6 @@
 ---
 title: De ce fanii FCSB nu vor boicota Digi Sport
 description: Fanii FCSB amenință des cu boicotarea presei sportive când ceva nu le convine în relație cu munca ziariștilor, dar faptic, asta nu se întâmplă
-slug: fani-fcsb-boicot-vali-moraru-digi-sport
 date_published: 2024-01-31T07:09:00.000Z
 date_updated: 2024-06-30T10:34:11.000Z
 tags: ["FCSB", "Suporteri", "Presa sportivă"]

@@ -1,6 +1,5 @@
 ---
 title: Sindromul "vreau să știu, dar nu din presă"
-slug: sindromul-sa-moara-presa
 date_published: 2024-06-11T11:00:48.000Z
 date_updated: 2024-07-08T07:51:31.000Z
 tags: ["Presa sportivă", "Rapid", "Suporteri"]

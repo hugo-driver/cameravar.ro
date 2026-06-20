@@ -1,6 +1,5 @@
 ---
 title: Ce ar trebui să știi despre acuzele lui Banciu - “Ioanițoaia și Tolontan protejau blaturile din Liga 1”
-slug: acuze-banciu-tolontan-ioanitoaia
 date_published: 2025-01-14T11:21:20.000Z
 date_updated: 2025-01-14T11:21:20.000Z
 tags: Presa sportivă

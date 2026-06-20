@@ -1,7 +1,6 @@
 ---
 title: De ce nu s-a calificat FCSB cu Sparta Praga (Video)
 description: După meciul tur, optimismul fanilor steliști a atins cote maxime. Asta mai ales pentru că au ignorat bucăți mari din realitatea acelui joc
-slug: de-ce-nu-s-a-calificat-fcsb-cu-sparta
 date_published: 2024-08-14T14:12:04.000Z
 date_updated: 2024-08-14T14:12:27.000Z
 tags: FCSB

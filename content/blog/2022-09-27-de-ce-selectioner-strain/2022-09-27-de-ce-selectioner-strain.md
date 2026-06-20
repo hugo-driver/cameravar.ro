@@ -1,7 +1,6 @@
 ---
 title: De ce avem nevoie de un selecționer străin
 description: "Problema noastră nu este că am involuat fotbalistic, ci că ne dezvoltăm într-un ritm foarte lent în comparație cu ceilalți. Un selecționer străin ne-ar mișca mai rapid."
-slug: de-ce-selectioner-strain
 date_published: 2022-09-27T14:59:44.000Z
 date_updated: 2024-07-03T03:47:21.000Z
 tags: ["Antrenori", "Echipa națională", "FRF"]

@@ -1,7 +1,6 @@
 ---
 title: Cei 3 influenceri care au speriat Liga 1 - Sergi Lopez, Daniel Șendre și Bogdan Tudor - Baratki
 description: 3 suporteri reușesc prin scrierile lor să influențeze masiv modul în care restul fanilor văd activitatea FCSB, Dinamo și Rapid
-slug: cei-3-influenceri-liga-1
 date_published: 2024-07-18T08:00:15.000Z
 date_updated: 2024-07-18T08:23:42.000Z
 tags: ["Presa sportivă", "Suporteri"]

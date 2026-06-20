@@ -1,7 +1,6 @@
 ---
 title: Despre relațiile ziariștilor cu oamenii din fotbal
 description: "Prieteniile ziariști - oameni de fotbal există, doar că majoritatea sunt false. Așa cum este uneori și presa făcută de respectivii jurnaliști."
-slug: relatii-ziaristi-oameni-din-fotbal
 date_published: 2022-06-24T14:07:00.000Z
 date_updated: 2023-12-26T16:13:04.000Z
 tags: Presa sportivă

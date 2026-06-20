@@ -1,7 +1,6 @@
 ---
 title: Povestea respectului real în fotbalul românesc - cazul Marius Șumudică
 description: "Șucu și Angelescu nu l-au vrut pe Șumudică la Rapid dintr-un motiv cât se poate de simplu: nu-l respectă. Uman vorbind, nu profesional."
-slug: de-ce-nu-sumudica
 date_published: 2023-07-08T07:16:26.000Z
 date_updated: 2024-06-30T11:37:33.000Z
 tags: ["Dan Șucu", "Rapid", "Antrenori"]

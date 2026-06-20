@@ -1,7 +1,6 @@
 ---
 title: Are Hagi dreptate în cazul fotbaliștilor care refuză "naționala"?
 description: Dacă înțelegi ce înseamnă echipă reprezentativă, Hagi are o dreptate de natură instinctuală. Adică exact ce contează când vine vorba de o echipă națională
-slug: hagi-despre-refuzarea-nationalei
 date_published: 2023-03-24T06:54:02.000Z
 date_updated: 2024-06-30T11:43:34.000Z
 tags: Echipa națională

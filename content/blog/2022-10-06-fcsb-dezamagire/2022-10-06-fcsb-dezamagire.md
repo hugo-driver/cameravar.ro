@@ -1,7 +1,6 @@
 ---
 title: Dacă ții cu FCSB, relaxează-te...
 description: Cea mai mare eroare pe care o poți face ca suporter al FCSB este să fii dezamăgit de rezultatul cu Silkeborg (0-5)
-slug: fcsb-dezamagire
 date_published: 2022-10-06T18:43:10.000Z
 date_updated: 2024-06-30T12:03:23.000Z
 tags: ["FCSB", "Suporteri", "Gigi Becali"]

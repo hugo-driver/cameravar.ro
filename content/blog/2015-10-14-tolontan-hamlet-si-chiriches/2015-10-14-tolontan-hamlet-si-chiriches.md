@@ -1,7 +1,6 @@
 ---
 title: Tolontan și Hamlet
 description: "O poveste trăită de mine la Gazeta Sporturilor ar putea să lămurească necesitatea ca Vlad Chiricheș să-și ceară scuze pentru reacția de la meciul cu Finlanda."
-slug: tolontan-hamlet-si-chiriches
 date_published: 2015-10-14T05:27:00.000Z
 date_updated: 2024-06-30T16:34:13.000Z
 tags: Presa sportivă

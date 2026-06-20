@@ -1,7 +1,6 @@
 ---
 title: De ce cred că ne vom califica la Euro 2024
 description: Optimismul meu se bazează pe chestiuni subiective, dar care au totuși legătura cu faptele concrete din istoricul echipei naționale
-slug: ne-calificam-la-euro
 date_published: 2022-10-09T17:52:14.000Z
 date_updated: 2024-06-30T12:02:44.000Z
 tags: Echipa națională

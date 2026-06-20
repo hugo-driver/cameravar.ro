@@ -1,7 +1,6 @@
 ---
 title: De ce-mi place cum se mișcă Dinamo în această vară
 description: Dinamo pare să știe ce vrea de la viața sa în Liga 1, iar asta se vede inclusiv în strategia de construire  lotului
-slug: dinamo-se-misca-bine
 date_published: 2024-06-28T12:09:54.000Z
 date_updated: 2024-06-30T10:24:34.000Z
 tags: Dinamo

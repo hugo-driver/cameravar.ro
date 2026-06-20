@@ -1,7 +1,6 @@
 ---
 title: Mă pregătesc să devin ambasador al tuturor caselor de pariuri, inclusiv Superbet (Video)
 description: De fapt, mă reapuc să filmez pentru YouTube, dar cum orice conținut produs de presa sportivă pare să fie sponsorizat de casele de pariuri, am fost nevoit să le menționez la rândul meu
-slug: revenire-beldie-youtube
 date_published: 2024-08-10T06:23:39.000Z
 date_updated: 2024-08-10T06:26:35.000Z
 tags: Presa sportivă

@@ -1,7 +1,6 @@
 ---
 title: Becali cel Rău și rivalii săi plini de virtute
 description: Patronul FCSB a avut sinceritatea răutăcioasă de-a spune că nu se bucură de binele aproapelui său indiferent că e vorba de Șucu, Varga sau Rotaru... Deși aceștia spun că ei vor binele european al FCSB
-slug: becali-cel-rau-si-rivalii-virtuosi
 date_published: 2025-08-21T07:11:58.000Z
 date_updated: 2025-08-26T11:24:35.000Z
 tags: ["FCSB", "Conducători de club", "Mihai Rotaru", "Dan Șucu", "Gigi Becali"]

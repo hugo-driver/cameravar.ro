@@ -1,7 +1,6 @@
 ---
 title: De ce niciun antrenor n-ar trebui să-și dea demisia
 description: Nicolae Dică este un exemplu de antrenor care își dă demisia pentru că-și pierde prea rapid încrederea în sine.
-slug: fara-demisie-antrenori
 date_published: 2024-04-17T08:36:44.000Z
 date_updated: 2024-06-30T10:30:44.000Z
 tags: ["Antrenori", "Conducători de club"]

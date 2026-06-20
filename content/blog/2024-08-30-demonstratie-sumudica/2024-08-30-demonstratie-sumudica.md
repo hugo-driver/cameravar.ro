@@ -1,6 +1,5 @@
 ---
 title: Ce vrea neapărat să demonstreze Șumudică (Video)
-slug: demonstratie-sumudica
 date_published: 2024-08-30T16:42:13.000Z
 date_updated: 2024-08-30T16:42:13.000Z
 tags: Rapid

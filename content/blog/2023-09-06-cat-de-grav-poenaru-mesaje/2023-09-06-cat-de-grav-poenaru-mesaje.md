@@ -1,7 +1,6 @@
 ---
 title: Cât de grav este cu adevărat ce a făcut Ilie Poenaru
 description: Nu e grav, e doar grețos-amuzant. Grav este însă să ceri excluderea sa din fotbal pentru lipsă de caracter
-slug: cat-de-grav-poenaru-mesaje
 date_published: 2023-09-06T08:09:48.000Z
 date_updated: 2024-06-30T11:04:23.000Z
 tags: ["Antrenori", "Presa sportivă"]

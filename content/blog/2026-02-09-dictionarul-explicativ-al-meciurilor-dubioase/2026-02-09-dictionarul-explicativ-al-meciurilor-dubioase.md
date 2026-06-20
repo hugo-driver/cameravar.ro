@@ -1,7 +1,6 @@
 ---
 title: Update important în Dicționarul Explicativ al Meciurilor Dubioase (DEMD)
 description: În ultimii ani, am constatat o folosirea haotica a sintagamelor care descriu meciurile dubioase din Liga 1. Prin urmare, vreau să clarific lucrurile
-slug: upadate-dictionar-meciuri-dubioase
 date: 2026-02-09
 tags: Presa sportivă
 permalink: "upadate-dictionar-meciuri-dubioase/index.html"

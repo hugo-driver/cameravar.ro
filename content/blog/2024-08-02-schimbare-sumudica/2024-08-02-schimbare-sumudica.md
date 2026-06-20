@@ -1,7 +1,6 @@
 ---
 title: 7 lucruri pe care ar trebui să le facă Șumudică pentru a nu se mai face de râs în emisiuni
 description: Dacă Șumudică ar face aceste lucruri nu și-ar pierde spiritul, dar ar reuși să-și îmbunătățească masiv imaginea în ochii celor care-l pot angaja în fotbalul românesc și nu numai
-slug: schimbare-sumudica
 date_published: 2024-08-02T09:25:47.000Z
 date_updated: 2024-08-02T09:28:52.000Z
 tags: Rapid

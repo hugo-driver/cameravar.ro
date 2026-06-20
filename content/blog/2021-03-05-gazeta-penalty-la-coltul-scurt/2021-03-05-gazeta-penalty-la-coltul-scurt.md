@@ -1,7 +1,6 @@
 ---
 title: Gazeta bate din nou penalty la colțul scurt
 description: "Gazeta Sporturilor se află într-un proces de educare a publicului în legătură cu ce e bine și ce nu e bine să gândești, să spui și să faci."
-slug: gazeta-penalty-la-coltul-scurt
 date_published: 2021-03-05T21:55:00.000Z
 date_updated: 2024-06-30T16:18:50.000Z
 tags: Presa sportivă

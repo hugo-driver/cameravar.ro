@@ -1,6 +1,5 @@
 ---
 title: De ce teoria “Gâlcă a bramburit echipa” este falsă
-slug: teorie-falsa-galca
 date: 2026-02-01
 tags: Rapid
 permalink: "teorie-falsa-galca/index.html"

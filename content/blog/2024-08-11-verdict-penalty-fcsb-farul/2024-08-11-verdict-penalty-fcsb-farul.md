@@ -1,6 +1,5 @@
 ---
 title: A fost penalty pentru FCSB la meciul cu Farul? Verdict direct din duba VAR (Video)
-slug: verdict-penalty-fcsb-farul
 date_published: 2024-08-11T11:06:09.000Z
 date_updated: 2024-08-11T11:06:09.000Z
 tags: ["FCSB", "Arbitraje"]

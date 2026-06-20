@@ -1,7 +1,6 @@
 ---
 title: Pariurile nu sunt cancerul presei sportive, ci doar un banal diabet
 description: Casele de pariuri sunt probabil cea mai mare sursă de venituri pentru media sportive. Și asta începe să se cunoască 
-slug: cancerul-presei-sportive-casele-de-pariuri
 date_published: 2023-09-05T07:13:01.000Z
 date_updated: 2024-06-30T11:06:06.000Z
 tags: Presa sportivă

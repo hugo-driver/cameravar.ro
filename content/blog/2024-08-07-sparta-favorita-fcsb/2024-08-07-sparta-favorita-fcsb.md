@@ -1,7 +1,6 @@
 ---
 title: De ce cred că FCSB nu e favorită în returul cu Sparta Praga
 description: Cehii au fost o echipă de bătut, dar anumite nuanțe din evoluția lor mă fac să cred că-n retur șansele de calificare sunt, în cel mai bun caz pentru noi, aproape egale
-slug: sparta-favorita-fcsb
 date_published: 2024-08-07T08:40:45.000Z
 date_updated: 2024-08-07T08:40:45.000Z
 tags: FCSB

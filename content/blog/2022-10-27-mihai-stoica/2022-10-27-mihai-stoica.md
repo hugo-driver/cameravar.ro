@@ -1,7 +1,6 @@
 ---
 title: Mihai Stoica - ghid de înțelegere a personajului MM
 description: Mihai Stoica (MM) este în acest moment unul dintre cele mai greu definibile personaje din fotbalul românesc.
-slug: mihai-stoica
 date_published: 2022-10-27T07:24:24.000Z
 date_updated: 2024-06-30T12:00:22.000Z
 tags: ["FCSB", "Gigi Becali"]

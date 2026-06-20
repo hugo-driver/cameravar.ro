@@ -1,7 +1,6 @@
 ---
 title: "Noul obiectiv al lui Iordănescu sau al oricui va veni la națională: vânzarea lui Darius Olaru"
 description: Ca de obicei când Becali are de vândut un jucător, echipa națională devine principala sa platformă de marketing. Acum, e ândul lui Olaru.
-slug: vanzare-darius-olaru
 date_published: 2024-07-03T07:17:40.000Z
 date_updated: 2024-07-03T07:29:22.000Z
 tags: ["Echipa națională", "FCSB"]

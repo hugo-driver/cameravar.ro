@@ -1,7 +1,6 @@
 ---
 title: Ce ar trebui să știi despre șpagă în presa sportivă
 description: "Șpaga se ia mai ușor decât se dă, dar se dă mai rar decât se ia. Adică, e mai rară decât crezi când te enervează diverși ziariști."
-slug: spaga-presa-sportiva
 date_published: 2016-09-21T12:47:00.000Z
 date_updated: 2024-06-30T16:38:19.000Z
 tags: Presa sportivă

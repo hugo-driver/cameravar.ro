@@ -1,7 +1,6 @@
 ---
 title: De ce contează să ai inclusiv jucători ca Mihai Căpățână
 description: În general, suporterii sunt interesați de jucătorii care-și ajută echipa să câștige. Mijlocașul Craiovei face mai mult de atât
-slug: cazul-mihai-capatana-craiova
 date_published: 2024-07-22T16:19:31.000Z
 date_updated: 2024-07-22T16:19:54.000Z
 tags: CS U Craiova

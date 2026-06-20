@@ -1,7 +1,6 @@
 ---
 title: De ce nu cred că Valeriu Iftime se va retrage de la FC Botoșani
 description: Iftime anunță periodic că se retrage, dar creșterile din afacerile personale + atracția față de fotbal îl vor ține probabil la echipă pe termen lung.
-slug: retragere-valeriu-iftime
 date_published: 2023-10-24T11:28:25.000Z
 date_updated: 2024-06-30T10:59:39.000Z
 tags: Conducători de club

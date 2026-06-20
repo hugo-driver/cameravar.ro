@@ -1,7 +1,6 @@
 ---
 title: Cel mai important lucru în povestea Nicolae Constantin - Gabi Tamaș
 description: Gestul lui Constantin de-a preda acea înregistrare are legătură și cu subordonare unor oameni din fotbal față de câțiva fani influenți
-slug: fani-nocivi-petrolul
 date_published: 2022-10-16T15:51:59.000Z
 date_updated: 2024-02-10T07:12:48.000Z
 tags: ["Petrolul", "Suporteri"]

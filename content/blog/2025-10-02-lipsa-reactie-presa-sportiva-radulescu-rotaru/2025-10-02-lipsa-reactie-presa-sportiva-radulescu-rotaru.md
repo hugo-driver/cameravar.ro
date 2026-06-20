@@ -1,6 +1,5 @@
 ---
 title: De ce aproape nimeni din presă n-a reacționat după conflictul Mihai Rotaru - Decebal Rădulescu
-slug: lipsa-reactie-conflict-rotaru-radulescu
 date: 2025-10-02
 tags: ["Presa sportivă", "Mihai Rotaru"]
 permalink: "lipsa-reactie-conflict-rotaru-radulescu/index.html"

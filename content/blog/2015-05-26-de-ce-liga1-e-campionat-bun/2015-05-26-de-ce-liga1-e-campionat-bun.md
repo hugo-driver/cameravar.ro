@@ -1,7 +1,6 @@
 ---
 title: De ce Liga 1 e un campionat bun
 description: "Raportat la bugetele pe care le au cluburile din Liga 1, fotbalul nostru este unul decent spre bun. Dacă aceste bugete ar fi deștept administrate, am fi surpriza Europei."
-slug: de-ce-liga1-e-campionat-bun
 date_published: 2015-05-26T18:29:00.000Z
 date_updated: 2024-06-30T16:32:56.000Z
 tags: LPF

@@ -1,7 +1,6 @@
 ---
 title: De ce Astra trebuie să-l demită rapid pe Șumudică (Video)
 description: "De ce Astra ar fi trebuit să-l demită pe Marius Șumudică încă de când s-a aflat că a pariat"
-slug: astra-demisie-sumudica
 date_published: 2016-07-30T19:02:00.000Z
 date_updated: 2024-06-30T1"6:07:23.000Z
 tags: ["Antrenori", "Rapid"]

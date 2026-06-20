@@ -1,7 +1,6 @@
 ---
 title: De ce mi se pare Alex Crețu cel mai complet tânăr fotbalist din Liga 1
 description: "Fotbalistul lui CSMS Iași stă foarte bine fizic și poate evolua 3 poziții importante în orice echipă - fundaș central, mijlocaș central (ideal) și chiar atacant."
-slug: alex-cretu-fotbalist-complet
 date_published: 2014-11-27T21:19:00.000Z
 date_updated: 2024-06-30T16:30:38.000Z
 tags: CS U Craiova

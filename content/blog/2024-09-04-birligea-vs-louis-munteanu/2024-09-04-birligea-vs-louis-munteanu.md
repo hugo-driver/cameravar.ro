@@ -1,6 +1,5 @@
 ---
 title: Bîrligea chiar e bun, dar nici pe departe cu 3 clase peste Louis Munteanu (Video)
-slug: birligea-vs-louis-munteanu
 date_published: 2024-09-04T16:08:08.000Z
 date_updated: 2024-09-04T16:08:08.000Z
 tags: FCSB
