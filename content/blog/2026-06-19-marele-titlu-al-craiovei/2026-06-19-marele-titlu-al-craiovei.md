@@ -14,7 +14,7 @@ De ani buni, insist asupra unei chestiuni banale, dar importante - orice club ca
 
 Atât.
 
-Oricine reușește asta în mod constant este un mare câștigător.
+Cine reușește asta în mod constant este un mare câștigător.
 
 Cel mai mare posibil.
 
@@ -38,7 +38,7 @@ De asta, Craiova a reușit anul trecut cea mai importantă performanță a sa.
 
 Nu a fost vorba de titlu, a fost vorba de [oamenii pe care i-a adus în tribună](https://golazo.ro/universitatea-craiova-liga-1-spectatori-performanta-175258). 
 
-În contextul contextul conflictului de acolo, reușita aceasta este peste tot ce au obținut la un moment dat în justiție, peste titlul propriu zis, peste meciurile reușite în cupele europene, peste vânzările lui Mihăilă, Mitriță și Cicâldău.
+În contextul conflictului de acolo, reușita aceasta este peste tot ce au obținut la un moment dat în justiție, peste titlul propriu-zis, peste meciurile reușite în cupele europene, peste vânzările lui Mihăilă, Mitriță și Cicâldău.
 
 Și chiar peste profitul contabil pe care-l vor face anul acesta.
 
@@ -46,7 +46,7 @@ Fanii prezenți pe stadion sunt cea mai mare victorie a fotbalului.
 
 Faptul că ei [vând acum abonamente așa cum n-au făcut-o vreodată](https://www.fanatik.ro/universitatea-craiova-a-scos-la-vanzare-abonamentele-pentru-sezonul-2026-2027-cat-costa-un-loc-pe-ion-oblemenco-dupa-eventul-reusit-de-olteni-21486404) este doar o prelungire a ceea ce au reușit anul trecut din perspectiva prezenței publicului pe stadion.
 
-Oricine înțelege că acesta e cel mai important lucru în fotbal va avea echipă. 
+Cine înțelege că acesta e cel mai important lucru în fotbal va avea echipă. 
 
 Fără așa ceva, ești mereu la mâna politicului sau la mâna impulsivității unui finanțator sau altul.
 
