@@ -68,7 +68,7 @@ export default async function(eleventyConfig) {
   // ❌ scoatem eleventyNavigation ca să nu mai intre în meniu
   collection: {
     name: "posts",
-    limit: 10,
+    limit: 100,
   },
   metadata: {
     language: "ro",
