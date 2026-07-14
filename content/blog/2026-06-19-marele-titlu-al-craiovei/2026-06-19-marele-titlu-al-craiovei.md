@@ -2,7 +2,7 @@
 title: Marele titlu al Craiovei
 description: "Craiova a câștigat ceva mult mai important decât campionatul - stadioane pline la meciurile de acasă"
 date: 2026-06-19
-tags:  ["Craiova"]
+tags:  ["CS U Craiova"]
 permalink: "marele-titlu-al-craiovei/index.html"
 cover: "./marele-titlu-al-craiovei.webp"
 ---
