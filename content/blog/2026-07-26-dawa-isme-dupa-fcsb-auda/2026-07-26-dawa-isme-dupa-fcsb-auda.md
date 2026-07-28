@@ -7,7 +7,7 @@ draft: false
 tags:
     - FCSB
 categories: []
-permalink: dawa-isme-fcsb-auda
+permalink: dawa-isme-fcsb-auda/index.html
 cover: ""
 ---
 

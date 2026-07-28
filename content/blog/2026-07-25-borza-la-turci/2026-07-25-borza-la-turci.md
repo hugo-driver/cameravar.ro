@@ -8,7 +8,7 @@ tags:
     - Rapid
     - Dan Șucu
 categories: []
-permalink: borza-la-turci
+permalink: borza-la-turci/index.html
 cover: ""
 ---
 
