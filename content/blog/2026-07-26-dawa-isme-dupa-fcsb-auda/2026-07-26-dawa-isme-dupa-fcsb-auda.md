@@ -11,9 +11,8 @@ permalink: dawa-isme-fcsb-auda/index.html
 cover: "./dawa-isme-fcsb-auda.png"
 ---
 
-Comentarii după înfrângerea FCSB cu FK Auda în Conference League (2-3)
+![Captură video Ștefan Beldie - comentarii meci FCSB - FK Auda](dawa-isme-fcsb-auda.png)
 
-Ai toate amănuntele aici:
+[Comentarii mele după înfrângerea FCSB cu FK Auda în Conference League (2-3)](https://www.youtube.com/watch?v=DRw2eiHW_xw)
 
-https://www.youtube.com/watch?v=DRw2eiHW_xw
 

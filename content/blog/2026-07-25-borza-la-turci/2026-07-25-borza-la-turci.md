@@ -12,6 +12,9 @@ permalink: borza-la-turci/index.html
 cover: "./borza-la-turci.jpg"
 ---
 
+![Memă despre transferul lui Borza la turci](borza-la-turci.jpg)
+
+
 După ce Rapid l-a vândut pe Andrei Borza la FK Corum, o nou promovată în prima ligă a Turciei, au apărut tot felul de comentarii legate de penibilul tranzacției.
 
 Un fel de "prea puțini bani pentru un jucător promițător, care a debutat la națională. Șucu e disperat după bani și vinde tot ce poate!".
