@@ -3,7 +3,7 @@ title: De ce transferul lui Borza la turci este chiar OK
 description: Dan Șucu rămâne regele transferurilor din Liga 1 - deține recordul de vânzări pe bani buni fără ca Rapid să calce prin Europa
 date: 2026-07-25T04:49:40.349Z
 preview: /content/blog/2026-07-26-borza-la-turci/borza-la-turci.jpg
-draft: true
+draft: false
 tags:
     - Rapid
     - Dan Șucu

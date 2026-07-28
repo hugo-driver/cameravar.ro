@@ -3,7 +3,7 @@ title: Dawa-isme după FCSB - FK Auda (2-3)
 description: Comentariile mele după înfrângerea FCSB cu FK Auda în preliminariile Conference League (2-3)
 date: 2026-07-26T05:17:01.639Z
 preview: ""
-draft: true
+draft: false
 tags:
     - FCSB
 categories: []
