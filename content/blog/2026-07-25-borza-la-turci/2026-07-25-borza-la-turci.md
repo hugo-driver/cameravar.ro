@@ -9,7 +9,7 @@ tags:
     - Dan Șucu
 categories: []
 permalink: borza-la-turci/index.html
-cover: ""
+cover: "./borza-la-turci.jpg"
 ---
 
 După ce Rapid l-a vândut pe Andrei Borza la FK Corum, o nou promovată în prima ligă a Turciei, au apărut tot felul de comentarii legate de penibilul tranzacției.
