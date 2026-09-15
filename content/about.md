@@ -33,7 +33,7 @@ Am lucrat în presa sportivă începând cu anul 2002, la ProSport-ul lui Ovidiu
 
 **Din 2010**, timp de 4 ani, am moderat emisiunea de dimineață de la sport.ro (actualul Pro Arena). La un moment dat, cei de acolo "[m-au lăsat să plec](https://www.cameravar.ro/plecare-beldie-sport-ro/)".
 
-Ca autor de texte de opinie, am mai colaborat de-a lungul timpului, am mai colaborat cu Telesport, Hotnews, iAM Sport.
+Ca autor de texte de opinie, am mai colaborat de-a lungul timpului cu Telesport, Hotnews, iAM Sport.
 
 
 De ce merită să te abonezi
