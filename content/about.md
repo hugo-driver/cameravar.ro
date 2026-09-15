@@ -27,13 +27,14 @@ Sunt un ziarist care scrie despre un singur sport - fotbalul.
 
 Mai mult, **CameraVAR.ro** este dedicat în totalitate Ligii 1.
 
-Am lucrat în presa sportivă începând cu anul 2002, la ProSport-ul lui Ovidiu Ioanițoaia și Cătălin Tolontan, apoi am trecut alături de aceștia la Gazeta Sporturilor.
+Am lucrat în presa sportivă începând cu anul 2002, la ProSport-ul lui Ovidiu Ioanițoaia și Cătălin Tolontan, apoi am trecut alături de aceștia la Gazeta Sporturilor. Am fost pe rând reporter, reporter special, producător al Recursului Etapei moderat de Ovidiu Ioanițoaia, editorul șef al site-urilor Gazetei Sporturilor.
 
 **Din 2008**, nu mai sunt angajatul clasic al vreunei redacții și prefer să am colaborări punctuale cu cei interesați.
 
 **Din 2010**, timp de 4 ani, am moderat emisiunea de dimineață de la sport.ro (actualul Pro Arena). La un moment dat, cei de acolo "[m-au lăsat să plec](https://www.cameravar.ro/plecare-beldie-sport-ro/)".
 
-**În momentul de față**, am două colaborări în presa sportivă - [scriu texte de opinie pentru iAMSport](https://iamsport.ro/autor/stefan-beldie/) și sunt invitat în emisiunile lui Viorel Grigoroiu de la Digi Sport.
+Ca autor de texte de opinie, am mai colaborat de-a lungul timpului, am mai colaborat cu Telesport, Hotnews, iAM Sport.
+
 
 De ce merită să te abonezi
 --------------------------
