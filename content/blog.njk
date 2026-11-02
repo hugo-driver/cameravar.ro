@@ -10,24 +10,13 @@ Aici ai lista textelor scrise de mine pe acest site.
 
 Când scriu ceva nou, afli instant dacă ești abonat prin email:
 
-<form
-  action="https://buttondown.com/api/emails/embed-subscribe/cameravar"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/cameravar', 'popupwindow')"
-  class="newsletter-form"
->
+<form class="newsletter-form" action="/.netlify/functions/subscribe" method="post" novalidate>
   <div class="input-group">
-    <input
-      type="email"
-      name="email"
-      placeholder="Adresa ta de email"
-      required
-      aria-label="Adresa de email"
-    />
+    <input type="email" name="email" placeholder="Adresa ta de email" required aria-label="Adresa de email" autocomplete="email" />
     <button type="submit">Abonare</button>
   </div>
-  <p class="form-message" id="form-message"></p>
+  <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;" />
+  <p class="form-message" aria-live="polite"></p>
 </form>
 
 
