@@ -18,6 +18,9 @@
     {#- Fathom Analytics script - defer pentru a nu bloca încărcarea paginii #}
     <script src="https://cdn.usefathom.com/script.js" data-site="FPZWIYOI" defer></script>
 
+    {#- Cloudflare Turnstile - verificare anti-robot pentru formularul de abonare #}
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
     {#- Heading anchors JS #}
     <script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
   </head>
@@ -56,14 +59,28 @@ document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('.newsletter-form').forEach(function (form) {
     const message = form.querySelector('.form-message');
     const button = form.querySelector('button[type="submit"]');
+    const widget = form.querySelector('.cf-turnstile');
+
+    function resetTurnstile() {
+      if (window.turnstile && widget) {
+        try { window.turnstile.reset(widget); } catch (e) {}
+      }
+    }
 
     form.addEventListener('submit', async function (e) {
       e.preventDefault();
       const email = form.querySelector('input[name="email"]').value.trim();
       const website = form.querySelector('input[name="website"]').value;
+      const tokenInput = form.querySelector('input[name="cf-turnstile-response"]');
+      const token = tokenInput ? tokenInput.value : '';
 
       if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
         message.textContent = 'Scrie o adresă de email validă.';
+        return;
+      }
+
+      if (!token) {
+        message.textContent = 'Așteaptă o secundă verificarea anti-robot de sub formular, apoi apasă din nou.';
         return;
       }
 
@@ -74,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const res = await fetch('/.netlify/functions/subscribe', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ email: email, website: website })
+          body: JSON.stringify({ email: email, website: website, token: token })
         });
         if (res.ok) {
           window.location.href = '/sigur-vrei-sa-te-abonezi/';
@@ -85,6 +102,7 @@ document.addEventListener('DOMContentLoaded', function () {
       } catch (err) {
         message.textContent = 'Ceva n-a mers. Mai încearcă o dată.';
       }
+      resetTurnstile();
       button.disabled = false;
     });
   });

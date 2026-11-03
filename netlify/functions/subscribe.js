@@ -7,7 +7,10 @@
 //   3. la click pe link îl abonează și îi pune tag-ul "cameravar".
 //
 // Variabile de mediu necesare în Netlify (Site configuration -> Environment variables):
-//   BENTO_PUBLISHABLE_KEY, BENTO_SECRET_KEY, BENTO_SITE_UUID
+//   BENTO_PUBLISHABLE_KEY, BENTO_SECRET_KEY, BENTO_SITE_UUID, TURNSTILE_SECRET_KEY
+//
+// Protecție anti-robot: fiecare cerere trebuie să aibă un token Cloudflare Turnstile
+// valid (widget-ul "cameravar-abonare"). Fără token valid, nu se trimite nimic în Bento.
 
 const EVENT_TYPE = "abonare_cameravar";
 
@@ -18,10 +21,12 @@ export const handler = async (event) => {
 
   let email = "";
   let website = "";
+  let token = "";
   try {
     const body = JSON.parse(event.body || "{}");
     email = String(body.email || "").trim().toLowerCase();
     website = String(body.website || "");
+    token = String(body.token || "");
   } catch {
     return json(400, { error: "Cerere invalidă." });
   }
@@ -34,6 +39,35 @@ export const handler = async (event) => {
 
   if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
     return json(400, { error: "Adresă de email invalidă." });
+  }
+
+  // Verificare Cloudflare Turnstile.
+  const turnstileSecret = process.env.TURNSTILE_SECRET_KEY;
+  if (!turnstileSecret) {
+    console.error("Lipsește variabila TURNSTILE_SECRET_KEY din environment.");
+    return json(500, { error: "Configurare lipsă pe server." });
+  }
+  if (!token) {
+    return json(400, { error: "Verificarea anti-robot lipsește. Reîncarcă pagina și încearcă din nou." });
+  }
+  try {
+    const form = new URLSearchParams();
+    form.append("secret", turnstileSecret);
+    form.append("response", token);
+    const ip = event.headers["x-nf-client-connection-ip"];
+    if (ip) form.append("remoteip", ip);
+    const vr = await fetch("https://challenges.cloudflare.com/turnstile/v0/siteverify", {
+      method: "POST",
+      body: form,
+    });
+    const vdata = await vr.json().catch(() => ({}));
+    if (!vdata.success) {
+      console.warn("Turnstile respins:", JSON.stringify(vdata["error-codes"] || []));
+      return json(400, { error: "Verificarea anti-robot a eșuat. Reîncarcă pagina și încearcă din nou." });
+    }
+  } catch (err) {
+    console.error("Eroare la verificarea Turnstile:", err);
+    return json(502, { error: "Nu am putut verifica cererea. Mai încearcă o dată." });
   }
 
   const publishableKey = process.env.BENTO_PUBLISHABLE_KEY;

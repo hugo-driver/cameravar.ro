@@ -15,5 +15,6 @@ Dar nici echipa ta ↓ ↓ ↓
       <button type="submit">Abonare</button>
     </div>
     <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;" />
+    <div class="cf-turnstile" data-sitekey="0x4AAAAAAFyVYQ2v1LRPUcTK" data-size="flexible" data-language="ro"></div>
     <p class="form-message" aria-live="polite"></p>
   </form>
