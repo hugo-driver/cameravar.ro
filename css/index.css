@@ -100,6 +100,13 @@ iframe {
 iframe {
 	aspect-ratio: 16/9;
 }
+.video-youtube {
+	margin: 1.5em 0;
+}
+.video-youtube iframe {
+	border: 0;
+	display: block;
+}
 
 p:last-child {
 	margin-bottom: 0;

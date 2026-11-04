@@ -64,7 +64,6 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(feedPlugin, {
   type: "atom", // sau "rss", "json"
   outputPath: "/feed/feed.xml",
-  stylesheet: "pretty-atom-feed.xsl",
   // ❌ scoatem eleventyNavigation ca să nu mai intre în meniu
   collection: {
     name: "posts",
@@ -117,6 +116,19 @@ export default async function(eleventyConfig) {
 
 	eleventyConfig.addShortcode("currentYear", () => {
 		return (new Date()).getFullYear();
+	});
+
+	// Video YouTube inclus în pagină. În articol scrii pe un rând separat:
+	//   {% youtube "https://www.youtube.com/watch?v=ID" %}
+	// Merge cu orice fel de link YouTube (watch, youtu.be, shorts) sau doar cu ID-ul.
+	eleventyConfig.addShortcode("youtube", (input) => {
+		const s = String(input || "").trim();
+		const m = s.match(/(?:v=|youtu\.be\/|embed\/|shorts\/|live\/)([A-Za-z0-9_-]{11})/);
+		const id = m ? m[1] : s;
+		if (!/^[A-Za-z0-9_-]{11}$/.test(id)) {
+			throw new Error(`Link YouTube invalid în shortcode-ul youtube: "${s}"`);
+		}
+		return `<div class="video-youtube"><iframe src="https://www.youtube-nocookie.com/embed/${id}" title="Video YouTube - CameraVAR.ro" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`;
 	});
 
 	// Features to make your build faster (when you need them)
