@@ -1,18 +1,19 @@
 // netlify/functions/subscribe.js
-// Primește un email de la formularul de newsletter și trimite în Bento
-// evenimentul "abonare_cameravar". Evenimentul creează contactul (dacă nu există)
-// și pornește flow-ul "Confirmare abonare cameravar.ro" din Bento, care:
-//   1. îl marchează ca dezabonat până confirmă (double opt-in),
-//   2. îi trimite emailul "Confirmă-ți abonarea la CameraVAR.ro",
-//   3. la click pe link îl abonează și îi pune tag-ul "cameravar".
+// Primește un email de la formularul de newsletter de pe cameravar.ro și îl trimite
+// în MailerLite, în grupul "MailerLite".
+//
+// Double opt-in: în MailerLite e pornită opțiunea "Double opt-in for API and integrations"
+// (Account settings -> Subscribe settings). Abonatul nou intră ca "unconfirmed" și
+// MailerLite îi trimite singur emailul de confirmare. Devine activ după ce dă click.
 //
 // Variabile de mediu necesare în Netlify (Site configuration -> Environment variables):
-//   BENTO_PUBLISHABLE_KEY, BENTO_SECRET_KEY, BENTO_SITE_UUID, TURNSTILE_SECRET_KEY
+//   MAILERLITE_API_KEY, TURNSTILE_SECRET_KEY
 //
 // Protecție anti-robot: fiecare cerere trebuie să aibă un token Cloudflare Turnstile
-// valid (widget-ul "cameravar-abonare"). Fără token valid, nu se trimite nimic în Bento.
+// valid (widget-ul "cameravar-abonare"). Fără token valid, nu se trimite nimic în MailerLite.
 
-const EVENT_TYPE = "abonare_cameravar";
+const GROUP_NAME = "MailerLite";
+const ML_API = "https://connect.mailerlite.com/api";
 
 export const handler = async (event) => {
   if (event.httpMethod !== "POST") {
@@ -48,7 +49,7 @@ export const handler = async (event) => {
     return json(500, { error: "Configurare lipsă pe server." });
   }
   if (!token) {
-    return json(400, { error: "Verificarea anti-robot lipsește. Reîncarcă pagina și încearcă din nou." });
+    return json(400, { error: "Verificarea anti-robot nu s-a terminat. Așteaptă o secundă și apasă din nou." });
   }
   try {
     const form = new URLSearchParams();
@@ -70,45 +71,43 @@ export const handler = async (event) => {
     return json(502, { error: "Nu am putut verifica cererea. Mai încearcă o dată." });
   }
 
-  const publishableKey = process.env.BENTO_PUBLISHABLE_KEY;
-  const secretKey = process.env.BENTO_SECRET_KEY;
-  const siteUuid = process.env.BENTO_SITE_UUID;
-  if (!publishableKey || !secretKey || !siteUuid) {
-    console.error("Lipsesc variabilele BENTO_PUBLISHABLE_KEY / BENTO_SECRET_KEY / BENTO_SITE_UUID din environment.");
+  const apiKey = process.env.MAILERLITE_API_KEY;
+  if (!apiKey) {
+    console.error("Lipsește variabila MAILERLITE_API_KEY din environment.");
     return json(500, { error: "Configurare lipsă pe server." });
   }
-
-  const auth = Buffer.from(`${publishableKey}:${secretKey}`).toString("base64");
-  const url = `https://app.bentonow.com/api/v1/batch/events?site_uuid=${encodeURIComponent(siteUuid)}`;
+  const headers = {
+    Authorization: `Bearer ${apiKey}`,
+    "Content-Type": "application/json",
+    Accept: "application/json",
+  };
 
   try {
-    const res = await fetch(url, {
-      method: "POST",
-      headers: {
-        Authorization: `Basic ${auth}`,
-        "Content-Type": "application/json",
-        Accept: "application/json",
-        "User-Agent": "cameravar-ro-subscribe/1.0",
-      },
-      body: JSON.stringify({
-        events: [
-          {
-            type: EVENT_TYPE,
-            email: email,
-            details: { source: "cameravar.ro" },
-          },
-        ],
-      }),
-    });
+    // Găsim ID-ul grupului după nume.
+    const gr = await fetch(`${ML_API}/groups?filter[name]=${encodeURIComponent(GROUP_NAME)}&limit=50`, { headers });
+    const gdata = await gr.json().catch(() => ({}));
+    const group = (gdata.data || []).find((g) => g.name === GROUP_NAME);
+    if (!gr.ok || !group) {
+      console.error("Nu am găsit grupul în MailerLite:", gr.status, JSON.stringify(gdata));
+      return json(502, { error: "Nu am putut procesa abonarea. Mai încearcă o dată." });
+    }
 
+    // Adăugăm (sau actualizăm) abonatul și îl punem în grup.
+    const res = await fetch(`${ML_API}/subscribers`, {
+      method: "POST",
+      headers,
+      body: JSON.stringify({ email, groups: [String(group.id)] }),
+    });
     const data = await res.json().catch(() => ({}));
 
-    // Bento răspunde cu {"results": N, "failed": M}.
-    if (res.ok && !(data && data.failed > 0)) {
+    if (res.ok) {
       return json(200, { ok: true });
     }
 
-    console.error("Bento a răspuns cu eroare:", res.status, JSON.stringify(data));
+    console.error("MailerLite a răspuns cu eroare:", res.status, JSON.stringify(data));
+    if (res.status === 422) {
+      return json(400, { error: "Adresă de email invalidă." });
+    }
     return json(502, { error: "Nu am putut procesa abonarea. Mai încearcă o dată." });
   } catch (err) {
     console.error("Eroare în funcția subscribe:", err);

@@ -48,7 +48,7 @@
 
     <footer>
       <p>
-        © {% currentYear %} <a href="https://beldie.ro/">Ștefan Beldie</a> | <a href="https://www.cameravar.ro/feed/feed.xml">Feed RSS</a> 
+        © {% currentYear %} <a href="https://beldie.ro/">Ștefan Beldie</a> | <a href="https://www.cameravar.ro/feed/feed.xml">Feed RSS</a> | <a href="/politica-de-confidentialitate/">Confidențialitate</a> 
       </p>
     </footer>
 
@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
 
       if (!token) {
-        message.textContent = 'Așteaptă o secundă verificarea anti-robot de sub formular, apoi apasă din nou.';
+        message.textContent = 'Verificarea anti-robot nu s-a terminat. Așteaptă o secundă și apasă din nou.';
         return;
       }
 
